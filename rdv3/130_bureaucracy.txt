@@ -1,0 +1,55 @@
+
+## bureaucracy
+
+though Trotskyists may be upset to hear this, bureaucracy is actually the bedrock of a modern economy
+
+it is the only way any "collaboration" on objectives occurs between corporations in the competitive environment of capitalism - a smaller specialist bureaucracy is created that sells its product to bigger bureaucracies, or takes orders from them
+
+capitalism consists of competition and also civilisation-building
+this is how workers get deceived into thinking it is the only practical way
+they don't know how to build a computer circuit so they become convinced you have to pay somebody else, and then they accept corporations, only to lock themselves into becoming subjects of a corporation
+
+
+
+how do we address the problem that /the actual work is hard/?
+we always run into problems we have to outsource to another group of people
+such as circuit design, fixing computers, salvaging old computers, creating an initial skeleton of an operating system
+
+
+
+there is no meaningful difference between organisations and bureaucracies, between government ministries and bureaucracies, between corporations and bureaucracies - there is no particular stage at which they turn from a "normal" un-bureaucratic structure into a bureaucracy.
+this should not suggest to us that government ministries and corporations are the same.
+instead it should simply suggest that "bureaucracy" cannot be a meaningful pejorative word for a problem stage of something, because bureaucracy is a /process/ rather than a category of things, and it is there the whole time. materially, all organisations with a specific designated role are bureaucracies which form from and continue an underlying bureaucracy process.
+
+
+case study 1: corporate videogames
+to accomplish the absurd production values of modern games, studios have to outsource to other studios, use a game engine such as Unity which they are paying another business empire to access, in the old days more than today they would hire experts at particular things who are external to the studio and go to a bunch of different studios rapidly recording sound effects or something.
+
+case study 2: phones
+pinephone's board had to be outsourced to a chinese factory
+later, hardware issues came up in the board and new revisions had to be produced. if these issues get in your way and you want to solve them you have to either buy somebody else's labour to get a new board, or buy somebody else's labour to modify the phone board in a procedure that's pretty difficult for most people
+here we see that some form of bureaucracy is just about the only responsible way to create a smartphone or computer "ecosystem". otherwise you cannot successfully either plan around ever having to change the design of the board, or in the event it inevitably has to change and leave people ordering new boards, create a way to do recycling or salvaging of old boards.
+
+
+we cannot escape the need to build bureaucracies as we build industries and civilisation
+all we can do is try to convert the bureaucracies into democracy or gradually replace them with something less complex or easier to run
+
+bureaucracies /do/ things. they accomplish tasks which haven't been done before in some sense in order to enable other people to build on their work.
+the biggest problem with bureaucracies is that only capitalism is benefiting from them
+capitalism discovers something through the hard work of a particular bureaucracy and it isn't available to other corporations so they have to reinvent it all over again, or it isn't available to other people so they are forced into working for capitalism for money and waiting for somebody to sell ready-made solutions to them
+the body of civilisation where people accomplish things for other people and advance society is captured by corporations to serve only expanding business empires and creating further secret exclusive projects only some people can get an exclusive job at rather than benefiting everybody by allowing them to build on this breakthrough and potentially create a job or two
+
+
+I think the "asiatic mode of production" from older marx writings may just be developing bureaucracy before capitalism or democracy. chinese dynasties developed a spatial arrangement of government bureaucrats which in some ways continued into the modern PRC, and allowed further developments into creating Marxist-Leninist bureauracies in the form of ministries or corporations
+however the united states did things differently, and mostly insisted on building capitalism and bourgeois democracy before bureaucracies designated long-term to handle a particular problem. the primary bureaucracy in the United States was large corporations.
+
+
+
+
+
+
+
+
+
+<= 1669510507 intro
+:: cr. 1670725201

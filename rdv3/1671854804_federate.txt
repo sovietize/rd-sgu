@@ -1,0 +1,78 @@
+
+
+federation is the thing.
+
+the successor to corporations is federations
+
+federations may in fact /be/ the era of socialism, the thing you have when capitalism is gone
+
+a notable characteristic of workers' states such as the Soviet Union and North Korea is you see several local industries federated together
+it's not simply a national plan that ensures goods and services are available, it's the cooperation of local industrial structures to supply each other in order to build a chunk of civilization
+
+
+Lenin outlined how it was better for nations to be able to democratically enter into a federation like the Soviet Union than to accept the "model" of imperialist war where they could only have what they could forcefully take from other nations and nations would only be allies in their struggle to take things from other blocs of nations
+the Bolsheviks observed this had not worked out well for the nations conquered by the Russian Empire and nations like Ukraine would only have an acceptable arrangement if they were allowed to enter and leave a federation of nations at will rather than having to be subsumed into some larger nationalism and empire
+
+
+however this principle holds for several more things than nations
+
+corporations act a lot like empires
+now a whole lot of industry functions as "people's republics of walmart" where corporations internally plan how goods will be supplied to each corporation
+even when corporations remain independent, they contract each other to create parts of large projects as, for example, consumers demand videogames too complex and impressive for one studio to be able to accomplish alone
+
+however consumers complain a lot about sudden buyouts and big businesses getting to be the ones who decide how federations of corporations are going to be arranged
+
+by now we have even seen a new phenomenon of people creating volunteer projects for no pay to replace capitalist products because they simply find them that level of unsatisfactory - Free Software and Free Culture
+however, Free Software projects also have to arrange themselves into federations to be able to get any wide adoption in a society where corporate products built by large conglomerates of corporate industry are so ubiquitous or have such a monopoly within the industries and productive environments of real civilization that people actually work in and create things in.
+
+in the fediverse, separate instances of "social media" platforms are linked together in order to create large networks comparable to Twitter or Facebook.
+with the Wikimedia Foundation, several separate wiki projects were created and linked together under one big nonprofit corporation which gathers funding for them.
+in a linux distribution, many independent Free Software projects participate in a unified network for distributing software installers, in order to create a Free Software operating system.
+finally, Free Software projects are often communicated to people in groups simply because they are Free Software - use inkscape to draw your graphics, use LibreOffice to make simple typeset documents and slideshows, use mastodon for your "social media" newsfeed, use wikimedia projects for your clipart. there is a kind of informal federation of every single Free Software and Free Culture project where people attempt to replace all capitalist products with various arbitrary combinations of Free Software projects
+
+this begins to suggest that a world without capitalism is one where the economy consists of federations where groups of people are able to reconfigure themselves from one federation to another if necessary - although realistically this would need to be approved by parts of the economy affected by the change
+the anarchy of production gradually goes away because people voluntarily align onto the same goals and strengthen a particular federation, moving away from other federations that weren't working out
+
+today particular conglomerates of industry end up trying to control groups of jobs, saying workers can't go to some other conglomerate because that's "poaching" workers
+businesses have this total control over workers' existence, all to use them as an instrument to fulfill some particular role in producing for the market, but whether that worker even gets to work in a particular post is determined by how much a particular things sells, and the worker is fired once it's no longer necessary to produce that thing
+in this way civilization is totally mechanized; the worker does not consciously build a better civilization to live in but is ordered around by market numbers which are based on the operation of social structures that in many countries generally were formed against the interests of workers
+thus moving out of capitalism requires regenerating entire social structures and chunks of industry so that workers are able to consciously put their effort into building a better civilization to live in and aligning themselves together onto shared projects which will remove duplicated effort
+
+
+building productivity in federations is a matter of creating a common goal which is either accomplished or not accomplished
+the common pitfall is making this goal numerical while it should be about qualitatively /inventing new things/ or /building things which do not yet exist/. if the thing is successfully invented and available the goal is accomplished
+
+
+
+many "anti-Stalinist" theories end up converging onto some of the same conclusions as the workers' states they attack
+
+Richard Wolff's model of transitioning the economy through co-ops requires large federations of co-ops such as the Mondragon corporation
+
+political Lacanianism has an idea that movements for specific identities and causes are bad because /any/ political group supposedly imposes the will of a minority of individuals onto the majority
+if one believed this, the intuitive road around this problem would be to remove the ideas of binding decisions and democratic centralism and replace it with individuals choosing what group and set of goals to join.
+(although Lacanianism and its focus on the individual and granting each individual mind everything and anything it believes do not make a lot of sense in the first place, so neither would granting this ability of totally free association to individuals make sense as a feasible thing that could happen.)
+
+Trotskyism has discovered that its surest path to success is to centralize toward one large international party and attempt to co-opt any number of small movements into its large movement, creating a federated structure
+
+capitalism is now forced to operate through "people's republics of walmart" where tasks have to be coordinated across many corporations just for it to continue growing and becoming more productive
+
+
+
+while it's true when there is socialism there are federations,
+the converse is not true, that as soon as there are federations they equal socialism
+
+capitalism is maintaining itself by creating coercive federations in order to remain competitive against workers' states
+however these coercive federations such as neocolonialism and big business buying out a ton of smaller businesses do not mean socialism is already achieved
+one thing we know is that federations definitely cannot be socialism until they are not coercive empires and their members are allowed to reconfigure to a different or new federation
+
+
+
+
+
+
+
+
+
+<= v3-Intro
+:: cr./ar. 1671854804
+:: t. v3-Federations

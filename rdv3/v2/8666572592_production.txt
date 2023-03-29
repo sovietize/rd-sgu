@@ -1,0 +1,1060 @@
+# a marxist theory of Free Software
+(outline / brainstorm - consider all of these ideas a work-in-progress)
+
+
+## production
+
+every time you create finished things it is an act of production
+sounds redundant at first, but many people don't understand this
+
+many people know that working for a corporation to create Their things is unsatisfactory
+but then they try to create things independently, and become independent producers.
+this is analogous to the Soviet peasant that doesn't even have a tractor.
+however now this person thinks they can simply outcompete the kulak with several employees, say hey come over to my project where we create better things, and achieve socialist production at the local level.
+
+if you do only this the "kulaks" will win.
+they are much more efficient at creating Finished Products even if those things are crap
+so they simply push out a bunch of crappy things until everybody has one,
+and then the independent producer can't market good things or even find an audience. because all the consumers believe that task is complete.
+the consumers are the ones who give Production meaning. this is the only 'democratic' element of a market system.
+however if the consumers are very stupid they will never demand better products.
+in this way capitalists can fully undermine the democracy of markets and make capitalism entirely about power and hierarchy.
+
+in a Liberal society it is then on the independent producer to be impossibly amazing in order to ever persuade consumers they want better products, and be allowed to invent and produce better products.
+
+we see this pattern repeat a lot: somebody has a genuinely better idea, it fails to be completed or catch on or "come back", people wonder why, crappier things that still have a stream of money behind them prevail. because Production has been reduced to "Bourgeois Production", where all production is begun by the bourgeoisie and the primary purpose of any Product anyone in society experiences as a Finished Product is to grow capital for the bourgeoisie.
+really, it's no longer enough to call it "capitalist production". that suggests there's some kind of equal opportunity for regular people to get into a corporation and have a say in what to produce next.
+it's better to call it "Bourgeois Production" to highlight that no, in late-stage capitalism we really are at the stage of the bourgeoisie /planning consumers/ and deciding what consumers get to buy. all production and innovation and 'visions for the future of industries' have been gradually reduced to bourgeois property Belonging to small groups of people.
+
+
+## gamification
+
+as capitalism goes on, more parts of life begin to outright resemble capitalism.
+
+people have tried to point out the phenomenon with words like "gamification",
+but have neglected that when we design games based around scoring systems in a capitalist society, we often bake general concepts in our capitalist society into our games.
+- think about how many games are accidentally or intentionally based around the concepts of war or feudalism. 
+  - we have world map strategy games like _Risk_, games where you accumulate an army and conduct a war against other states like _Magic: the Gathering_, feudalism simulators modelling small-scale wars between nobility like _Gemfire_ and _Fire Emblem_, MMOs and other RPGs with concepts like "raids" and "campaigns", literal military campaign simulators with guns and soldiers and military jets
+- on the flip side there are computer games like _Animal Crossing_ and _Stardew Valley_ which try to be nonviolent, but then there are capitalists and bank accounts involved in concepts of progression in the game
+- one of the most overlooked manifestations of capitalism is _Pokémon_.
+  - particularly in _Pokémon Go_ you basically accumulate employees (thousands!) which gradually earn money and resources so you can invest in more means of production, but the employees have no say in what you do or whether you "fire" them. there is no such thing as pokémon simply existing in the world and leading their own lives if you aren't using them. they can only be hoarded by trainers doing nothing or not meaningfully exist
+  - in this light it's really interesting that even _Digimon World_ tries to portray a world where Digimon can simply exist in a city without being owned or used as your employees.
+
+thus, people have mischaracterised what "social media" platforms actually are, namely ones built around a churning river of "news headlines" like Facebook, Twitter, and Reddit.
+this design forces competition into the system silently such that people don't notice.
+- the platform simply creates a cycle of Production where people create content and post it for others, and adds market mechanics so that some people move upward and some move down or stagnate.
+  - sometimes it's not even necessary to deliberately create incentives. sometimes the natural preference of viewers for one kind of content over another will create competition as creators are pushed to produce that kind of content to get any views
+  - a mere chronological news feed can force people to compete to be the most recent or most regular poster just to be seen.
+- on YouTube, creators are widely aware that "The Algorithm" completely turns the platform into a market, and in fact a kind of "capitalist planned economy" where planning is further tuning The Algorithm.
+  - technically the advertisers are "buying" the Products to market to the viewers, vaguely like retail stores buy products to sell for their own revenue.
+- perversely, people will feel like it's /more/ meaningful to post their content into a social media Market because as a kind of Production, it gives them an audience, which gives the content a clear purpose in society. assuming the post gets seen.
+  - this is one of the reasons why there are now "only 5 websites", besides the phenomemon of various privately-owned web hosts and platforms of the past going out of business in the normal process of capitalism, and all the remaining businesses consolidating into just a few.
+
+thus "social media" news rivers actually capture social interaction and convert it into Bourgeois Production, 
+where quantity will always be more important than quality or utility because with its insistence on Finished Products and unit prices Bourgeois Production always rewards having more units to sell over having any good Products.
+
+people have tried to say that "the 24-hour news cycle" somehow led to Twitter and "Twitter addiction",
+but the "24-hour news cycle" is a Bourgeois Production cycle where a Finished Product is sold each day to advertisers for revenue. insurance companies, "Big Pharma", Mike Pillow.
+- many people even know this, but they don't connect it with the reason "social media" news rivers exist.
+- news rivers like Twitter exist to encourage regular people to engage in Bourgeois Production while believing they aren't working for capitalists because workers are supposed to steadily earn money, right? they aren't supposed to just be gambling at an uncertain chance for fame and glory and customers?
+
+the ultimate result of this whole system, Bourgeois Production and competitive news rivers, is to gradually sell everyone the idea that there are no proletarians, only bourgeoisie, and that it's /natural/ for every individual to upgrade into a (bigger) bourgeois. [-> "overlapping bourgeoisie and proletariat"]
+everyone thinks, well i have to fight my way to the top of the feed / Algorithm, and it's very hard to get there without things like investments or employees or spending money to make the product more impressive. so maybe that's an okay thing to do.
+
+
+
+## labour movements
+
+the capitalist block on innovation shifts the whole organising discussion to only talking about working conditions and harms of capitalism, because people won't conceptualise the /benefits of socialism/.
+it's thought people can only understand harms and downsides of not ending capitalism.
+but this may be an error.
+
+many times the people of the United States cannot even conceptualise harms of capitalism.
+they will think things like:
+- capitalist Jobs are fundamentally an okay concept
+- "while we have capitalism we need Elon Musk" - no pointing out particular capitalists as examples of why capitalists are bad
+- governments can address global climate change without even abolishing oil companies and oil tycoons
+  - Kurzgesagt's video on this is a doozy. they try to convince us capitalists will produce all the green technologies.
+  - worse, their centre-Liberal video sounds no different from PragerU's oil boss video where they say the solution is "investing in green technologies to lower their cost".
+- everything is okay if /they/ have a good Job and all they need to do is prevent fascism and not actually challenge capitalism to benefit other workers. the non-solidarity Liberal that thinks every kind of suffering is individual and all of it can be described in terms of improving individual lives.
+- "tankies" are the worst (these at times include both Identitarian fascists and Marxist-Leninists), however capitalism is bad and we need "Socialism", however 98% of the individual pieces of capitalism are okay and it's unclear what actually needs to change
+
+one of the weird artefacts of this is an "institutionalising" of identity politics.
+- people understand there is racism, and even call it "systemic racism", but attempt to carve arbitrary exceptions out of Liberalism so it isn't as racist. one day people declare that stealing and rioting is never ever okay even for black people.... then it changes the precise day that a bunch of people have a movement that's impossible to ignore, when an exception must be made and everyone must uphold the exception so Liberalism puts on a good face and doesn't look evil. it's evil to /make Liberalism look evil/, when people commit crimes against the Liberal state, or when they attack the exceptions in Liberalism.
+- it becomes "just the way things are done" that people experiencing some particular oppression rise up as an identity group just to get any recognition of their grievance at all, rather than being able to be part of some greater movement.
+  - identity politics and the resistance to identity politics form a closed loop together. you have an identity politics movement, then everybody saying identity politics is bad from conservatives to leftists to occasionally centre-Liberals, but then this solidifies that identity politics movements /have to keep happening/ because they haven't successfully gotten their issues accepted into 'regular' movements yet.
+  - intersectionality is the solution to this but we won't do it.
+- a certain non-solidarity develops again because it's like, you /are/ worthy of the anti-misogyny group, anti-racism group, etc. or you /aren't/. and sometimes different movements argue about whether they're helpful or harmful to each other's aims rather than working together.
+
+
+## material incentives / "Ideological States of Apparatuses"
+
+I used to be very confused about what was keeping people so incredibly attached to every shred of the capitalist system and unwilling to accept basically any kind of innovation, much less shreds of a new ideology
+
+then I realised there were basically always material incentives. [-> "overlapping bourgeoisie and proletariat"]
+
+- some people get satisfied with their capitalist Job and feel not obligated to help anybody else as much as spread bourgeois attitude and "wish everyone good luck in the capitalist competition". the microbourgeoisie
+- if you're talking to Literally the Bourgeoisie, they will look for every exception to capitalism harming workers and/or owners and act like if one worker and one owner are happy the whole system works
+- some people who are out of work cannot think in a properly systemic way because they are too focused on their own survival — although it may also be they can afford not to work, and this is acting as a material incentive to put off creating successful organising strategies. the lumpenbourgeoisie
+  - meanwhile, capitalist employers make it hard to get through the interview process and into a Job, making it harder for lumpenbourgeoisie/lumpenproletarians to enter the workforce at all, much less have an organised workplace.
+  - many anarchists believe refusing all capitalist Jobs has an effect, but this /may/ simply be feeding the phenomenon of the lumpenbourgeoisie, who are materially incentivised to aim to be petty-/microbourgeoisie when it appears harder to try to get employed and become a proletarian
+- for genuine proletarians, capitalist products can be a material incentive. if I go to work at capitalist Job I can go buy capitalist product
+  - proprietary video games are my go-to example. repeatedly releasing discrete Products every few years that are unnecessarily expensive but declared Finished Products before they're really satisfactory is a great way to materially incentivise people to put off trying to abolish capitalism. 'but I first have to save up money to buy exclusive proprietary game! abolish capitalists? maybe another day'
+- some large YouTube creators such as Vaush or ContraPoints get paid a bunch by miscellaneous fans for exactly their current views, and then feel no obligation to read more and get a better ideology.
+  - these are petty bourgeoisie who don't realise they exist in a competitive environment where they can Grow Their Business, thereby launching them from 'proletarians for hire' (whose income prospects would be fairly steady) up to petty bourgeoisie
+  - 'proletarians for hire' vs petty bourgeoisie really illustrates the idea capitalism is "a tumour" where businesses grow in an unchecked way at inappropriate times.
+- social links can be a material incentive. if you have nothing else to materially "buy you off", you may still have an enclosed social network of people who will continuously reassure you everything is fine — whether those people are conservatives or centre-Liberals talking about civil rights people "just deserve".
+  - the more self-contained your social network is and unlikely it is to expand or meet others, the less likely you'll ever run into actual proletarians or class-conscious Anybody, and the more likely you'll only ever be talking to various kinds of bourgeoisie.
+  - the more your social network continuously 'rewards' you for not truly changing and for maintaining your current social group over trying to challenge any of its views or make any of its people better people or leave it, the more you may become confused about whether any other ideologies are viable.
+  - this one is unintuitive, but think of the fact that psychotherapy, Twitter corporation, and church donations all have a monetary value. the material benefits of false emotional reassurance are reflected in the value of e.g. Twitter corporation, and churches getting money whether they have actually helped people or not. these are like the price society forks over for the product of false emotional reassurance
+
+Althusser writes about "ideological state apparatuses"/"interpellation", which are something like, arrangements of people and relationships which reproduce capitalism. somebody in the ISA basically receives bourgeois attitudes and strategies particular to that ISA and passes them on to other people inside/outside the ISA
+
+I think this concept is a great description of many processes in the United States, although it may not be quite complete.
+- Althusser's ISAs seemed to me to focus a bit too much on arrangements and structures, while I think the idea of material incentives is a lot more explanatory because it explains why people may or may not choose to break out of them
+- on YouTube, people have described "a Human Centipede of clout" where a big creator with a wrong view is socially linked to several small creators and they all then perpetuate the wrong view in the process of perpetuating each other's channels by boosting each other's streams and opinions. you could say the "Human Centipede" is simply an ISA that 'digests' wrong views across its structure, or that a bunch of petty-/microbourgeoisie have formed an informal guild which offers a material incentive of revenue/engagement for holding it together at all costs.
+  - either way, there never /has/ to be a "CIA plant" to create a structure where everybody is spreading around "US State Department talking points". a competitive system of petty-/microbourgeoisie and a bunch of fans with money can easily lead to the exact same thing.
+
+I stumbled onto ideas resembling interpellation first, and only after thinking more about what was 'powering' this and keeping it going did I finally reach the idea of Additional Bourgeois Classes.
+- for a little while I tried to conceptualise material incentives as YouTube "regressing back to pre-capitalism where the lowest class is independent producers". but I don't think that's as explanatory as there simply being bourgeois "workers" we confuse for proletarians.
+
+
+
+## overlapping bourgeoisie and proletariat
+
+in "First World" countries like the United States, the bourgeois relation and proletarian relation are separate phenomena
+the bourgeois relation is from investor to investment/"property" to someone else's labour
+but the proletarian relation is from employee to employer and investments
+thus somebody can have /both/ a proletarian and bourgeois relation, existing in an overlap between classes.
+ex.: an employee who claims to live off their Job, but is comfortably insulated by family members' businesses, or holds stocks as a retirement plan. does a proletarian in India get to retire on stocks??
+
+in many countries this distinction has not actually mattered;
+it was sufficient to identify people with a bourgeois relation and label them "the bourgeoisie" and everybody else the proletariat, and tell people to join the proletarian faction and disempower and abolish the bourgeoisie.
+but in the United States the process of "becoming class-conscious" is different because people must become conscious that /they are exploiters/ and /they are not yet proletarians/.
+the so-called "workers" of the United States are often not. they often have some kind of "investment" that grows or continually produces. and they must become conscious that the whole concept of investments is bad and they will have to give it up /as a concept/ and remake society into one where investments are not held individually nor by 'individual' industrial organisations greedily trying to control everything outside them (corporations, co-ops, guilds, cartels, etc).
+
+
+new table of classes:
+
+big bourgeoisie   - big businesses, capitalists proper, owners of giant business platforms for big/small bourgeoisie
+petty bourgeoisie - small businesses, independent producers who hold their career like an investment
+lumpenbourgeoisie - people out of work whose "investments" are still producing
+microbourgeoisie  - employed workers who have the option of work or trying to grow some "investment"
+proletariat       - workers who have no option but to be employees
+lumpenproletariat - people out of work with basically nothing
+
+lumpenbourgeoisie
+there are two kinds of lumpens. one is proletarian and one is bourgeois
+both have been excluded from "The Economy" i.e. Capitalism Proper
+but the lumpenbourgeois is incentivised to pick up conservatism or centre-Liberalism to defend the teeny tiny investment they exist on, living off somebody else's living off somebody's labour.
+lumpenbourgeoisie may include social-democrats depending on social programs that in turn exploit other countries. the key characteristic is that they are unemployed / out of business, and can totally afford not to work at all for at least a few years.
+
+microbourgeoisie
+this class somewhat replaces the idea of the labour aristocracy.
+a microbourgeois is somebody who has both bourgeois and proletarian streams of income; either a lumpenbourgeois or proletarian can become one by picking up the characteristics of the other.
+there is only a small distinction between microbourgeoisie and petty bourgeoisie. if a microbourgeois gets to the point of basically having a business or stable investment that overshadows their "day job", they become petty-bourgeois. however, a distinction does exist because there are a lot of First World "workers" who are not quite petty bourgeoisie. if they appear to be proletarians in daily life but are being "bought off" with something that is quite literally an investment, like stocks or "a corporate pension you keep after quitting", they may be microbourgeoisie.
+the primary thing that seals somebody as microbourgeoisie and not a mere "proletarian with a washing machine" is a tiny shred of private property with aspiration to grow it. if they genuinely view their individual privilege as totally unrelated to "capitalism" or "the bourgeoisie", thinking of this as mere "chance success that if someone else didn't get, oh well", or they see it as perfectly normal to have two whole complementary economic roles while others are jobless and genuinely have aspirations to grow into petty bourgeoisie, they are solidly microbourgeoisie.
+
+
+looking at YouTube as an example:
+big bourgeoisie   - owners of YouTube, advertisers
+petty bourgeoisie - larger creators on YouTube who get ad revenue or sponsorships
+lumpenbourgeoisie - unpaid creators who can afford to make a bunch of videos while unemployed
+microbourgeoisie  - people who are comfortably employed but still seeking *more* money on youtube
+proletariat       - creators earning all their money at a day job; employees of larger creators; /some/ patron-supported creators
+lumpenproletariat - people who can't afford to make unpaid videos but still do
+
+it should be noted that both a person's "day job", if applicable, and any earnings on youtube factor into this class chart. youtube basically opens up the opportunity for anybody to climb up to the next tier of bourgeoisie, or for lumpenproletarians to thrash upward to proletarians / petty bourgeoisie.
+
+
+
+## a movement of class traitors
+
+in previous communist movements petty-bourgeois class traitors were marginal
+this class was mainly represented by people like Lenin, Trotsky, Ché Guevara
+- and /arguably/ the Soviet government after it was established. all these writings about a "New Class" or "the PMC" are unnecessary when you can see that the Bolsheviks admitted that "society still has to work through its remaining contradictions". if they were in some kind of bourgeois position before, they can reject their privilege and try to improve one shared set of working conditions, but the notion of "petty-bourgeois academics sitting back and writing theories" doesn't go away until the society advances further.
+
+in contrast, a successfully 'awakened' United States would have *many* of these theorist types.
+there would be a bunch of genuine proletarians who can only think about the most nuts-and-bolts issues, but then there would be a bunch of privileged class traitors who spout off various hypotheses and ideas.
+
+thus the problem of "defeating Trotskyism" cannot be ignored.
+if the United States is basically going to be full of a bunch of Trotsky — i.e., bourgeois class traitors — a bunch of really confused revisionist movements made of privileged people and each trying to come up with bright ideas is about what we would expect.
+but it takes many more forms than Trotskyism. there's Lacanianism, postcolonial theories that are against all racism but hate Marxism-Leninism, and any number of things.
+- which much like the internal sects of Trotskyism can all get into fights with each other. in this sense the "superstructural" shape of Trotskyism is repeated across many movements of bourgeois theorists who vaguely want to break free from Liberal capitalism or its imagined "one or two flaws and no more".
+
+ironically Trotsky is much more useful than we think, solely because of all the things that happened before and in reaction to him rather than anything he actually said.
+he is a very interesting example of a privileged person who had some very bourgeois understandings of things in the beginning eventually becoming an ardent supporter of Bolshevism.
+so in only this one very specific moment in his life, he actually sets quite a good example for Americans.
+we should study what kinds of things create class traitors who want to be proletarians and don't keep clinging to bourgeois privilege and attitudes while attempting to create left-wing theories.
+
+
+## incentives to be Trotsky
+
+what makes somebody behave like Trotsky, spreading around incorrect ideas and trying to build up internal factions, and not like Ché Guevara, contributing in a more selfless way to the communist movement?
+
+arguably this is a kind of bourgeois attitude tied to competition between movements.
+- Trotsky tried his best to "be a proletarian productively contributing to society", but he always did it in ways like founding some periodical which proceeded to be specifically his. _Borba_, his newspaper thing in Mexico, etc.
+  - in this way he is similar to YouTube channels that confuse petty-/microbourgeoisie with proletarians and act like by running their own little 'outlet' they are necessarily able to contribute to a collective movement.
+  - it should be no wonder that Trotskyist groups are "so good at" establishing social media pages. they do not understand that this is a competitive environment and they may not really be building up anything but their own specific group against everything else.
+- "Trotskyism" in Lenin's time and the Fourth International can be understood as a process of competitively building an ideology, where so-called "workers" aspire to Grow their movement into a bigger more successful one, as their particular vision of "having a successful movement".
+- even in the modern day, Trotskyist parties /compete/ against each other to be the most successful one, whether they are aware of this or not. as do all the left-wing ideologies that reject Marxism and try to start with racism or the human mind, etc.
+
+in Trotsky's anecdotes about the early formation of the Bolshevik party, he describes visiting a bunch of rather bourgeois places and people — although he and Lenin generally can't stand them and basically see these settings as a thing of the past. [*vi]
+- they're trying to build up a workers' movement and they are like, going to operas and visiting the bourgeoisie? not to say either thing is Evil and you can't do it, but it highlights that they are not proletarians and simply bourgeoisie who disliked their privilege and attempted to give it up.
+
+a long time after this, Trotsky goes on repeatedly about "the bureaucracy", and how the Soviet government is paid too much, and "creating state capitalism", and various things.
+this fascinated me because it seemed like he was always solidly halfway to a real insight.
+- I felt like if he had really thought through anything he said, he would realise all of it applied to him. "Trotsky, you /are/ the bureaucracy!"
+  - if the Soviet communist party was "the bureaucracy" for being some kind of insulated organisation too separate from industry and proletarians and for deciding things he didn't like that are then enforced... he should question if a Trotskyist party with the same structure is a good idea.
+  - if he does not like "the bureaucracy", he should try harder to actually proletarianise his party and erode the distinction between the masses and the party.
+  - but this means him. he has to be willing to raise up average people to potentially take his place, rather than act like he's the only one who could ever do what he does.
+- the most frustrating thing about Trotsky's ideas is if he'd simply throw away "degenerated workers' states" then he could try to fix and abolish the bureaucracy. the way things were was easily a potential step to what he wanted.
+- (to be fair, if it were really true that Stalin quietly formed a faction of evil Tsarist bureaucrats that all worked to eliminate everyone who was against them, it would inherently make it harder to transition to a proletarian movement because the petty-bourgeois party members are acting in a hierarchical way and won't cede ground in the way required to level out the movement.)
+  - (but then we have to question how true it is.)
+
+the "CWI split" provides further evidence that Trotskyism in general may be a failure to proletarianise.   [*cwi]
+- in 2019, the Committee for a Workers' International (CWI) got into an argument between its International Secretariat (IS) and central committee (IEC), where the IEC separated and became International Socialist Alternative
+- in brief, it was like a Trotskyist group split in two and each shard called the other one "the bureaucracy", like that screenshot of two Spidermen pointing at each other.
+- what if /both shards were correct/? what if both of them were the bureaucracy by sheer definition of what a Trotskyist party /is/ and who it's composed of?
+
+the ultimate implication of "squaring Trotskyism" is:
+- Marxism-Leninism involves a process of demoting All bourgeoisie including the Additional Bourgeoisie down to proletarians, and the Communist Party has a purpose of collecting and demoting bourgeois theorists while improving conditions for proletarians. 
+  - Stalin's government did at least partially know this, although it's unclear if this knowledge was kept in other workers' states like China and North Korea.
+- an anarchist transition must accomplish the task of demoting All the bourgeoisie to a proletarian role while /never/ forming a "bureaucratic" party. the precise meaning of how this is done (form an organisation that's not bureaucratic?) will be left undefined.
+
+
+## proletarians as employees
+
+proletarians /are/ near-synonymous with employees
+- this is a slight oversimplification, keeping in mind some cases where China has built some kind of farming cooperative which is organised at the local level and does not operate precisely like it has employees, etc. the idea of "collective farms" had failed multiple times before finally being replaced with this
+- however, this simplified model is good for de-programming Americans... United States, Canada, /and/ Mexico, maybe Brazil
+
+to many people in the United States "trying to be an employee" is a totally foreign concept.
+we're all taught to try to be the owner or an independent shop
+but that model is the hallmark of being the bourgeoisie. [-> "overlapping bourgeoisie and proletariat"]
+the "temporarily embarassed millionaire" IS the bourgeoisie. even the "temporarily embarrassed petty-bourgeois" already IS the bourgeoisie.
+
+for some reason I think of a moment from _Ultraman R/B_,
+where Ultraman Rosso is comtemplating what he will do with his life in the future
+- he says something like "try to be an employee at some company???" with this visual dramatisation of how dumb office jobs are. which is immediately funny to the people of the United States or Japan because, we all know being an employee /sucks/ and being some kind of unique special hero that created their own job is better.
+- but I would argue this scene is something of a "bourgeois error" depicted in the show.
+  - in the Ultra Series lore, Ultra Warriors are intended to be the "Red Army" of a communist planet that doesn't believe in capitalism and protects people from evil space alien empires.
+  - however this scene depicts an Ultra Warrior simply deciding that being an employee is stupid and it's not even worthwhile to go into a regular job to help the regular workers there. it's better to focus on his own advancement and actualisation because the only way for him to have a better life is for /him/ to become greater, and /then/ he can help others.
+- amusingly enough _Ultraman Geed_ may have done this a little better with Ultraman Zero actually being alongside Leito at his boring office job.
+  - though I think there's an even more subtle error there because is Leito in fact average or privileged? he has a shitty life, but he seems like he may still believe in "climbing the corporate ladder" and becoming the boss as the only option, which would unfortunately land him in the microbourgeoisie
+[I don't know how relevant this really is but I just had to write it down somewhere. maybe chop out to some other post later]
+
+if you've proletarianised, you want to be nothing more than an employee, or more precisely, the things an employee /is/.
+you want to simply /have/ a job and exist within a consistent organisation within society that won't close tomorrow. you will value a stable job for everybody above "advancing" or "growth".
+you will willingly operate at the same rank as regular people, and use the same things they use instead of your own special shiny things just for your own rank (or at the very least use both), as a matter of making sure everybody's working and living conditions actually improve across the board.
+you will attempt to organise everybody together for creating a stable society with less "gambling", instability, and crashes.
+if that seems crazy or unheard-of, then your task in organising people is to get them to understand this is the problem the movement is trying to address and they have to /work on solutions to the problem/.
+
+proletarianisation doesn't mean you aren't allowed to have ambitions of what you would like to build or contribute to society, and imagine you want to build something greater than you have right now.
+it simply means that you would have those ambitions without advancing "above" other people and tying it to your role in the social hierarchy.
+it means that instead of progressing to greater levels of ownership over more stuff you would simply stay an "employee" and become the world's most accomplished "employee".
+it means that you could invent and achieve all the things you want to, but if we imagine there was an economic democracy to manage formal tiers within organisations, you would separately have to prove that you deserve greater positions in the hierarchy of expertise or management and get elected there.
+
+clearly, some of these characteristics of proletarianisation are not immediately possible while capitalism exists, and you cannot literally try to effect such things today.
+but people need to really understand the difference between what they have and what they are aiming for in order to have a successful workers' movement.
+in North America, several of the things you already have you may have to /give up/... in exchange for different and arguably better things for everybody including you.
+
+
+
+## virtualisation
+
+in the United States and (probably to a lesser extent) similar countries,
+people have become so atomised and isolated that they build their whole entire mental model of the world around themself, and a short distance away from themself.
+(I at first wrote "themselves" but really, a singular "themself" drives the point home even better.)
+
+I will call this "virtualisation", or specifically, "virtualising the whole world into your head".
+- people start their model with their own immediate experiences of their life and the people around them, and then have to address the giant gaps across the whole rest of the world with things like assumptions, stereotypes, their parents' ideology, inferences, factual reference works if they're lucky, internet anecdotes about other people's experiences, etc, and thus construct the whole rest of the world from giant uncertainties or simply nothing.
+- but the key thing is /nobody knows they're doing this/ before the age of maybe 25 or so. they think their created virtual world /is/ the world, and in some cases may get upset if somebody challenges it.
+- one could say it's a bit like "The Matrix", only everybody creates their own Matrix tailored to their own life experiences and hopes for what's true.
+  - sometimes I phrase things as "the person becoming virtualised", and this means the same thing as "virtualising the world". although it can imply a more severe case
+
+examples of virtualisation:
+
+- a theist has "personal experiences of God" and believes this experience represents reality for everybody on earth, then goes through life believing anybody else on earth could experience their specific god
+- a conservative has never actually met any real "leftists" and only run into one annoying university professor, and comes to believe all "leftists" in the world are annoying professors that want to "destroy America"
+- a racist has literally never met any black people and sees one news report about one criminal in one poor neighbourhood and comes to believe all poor neighbourhoods in the world are out to get everybody and all they do is generate crimes
+- a Liberal has never experienced finding capitalism completely and utterly intolerable and builds a model that they will never get into one of these situations where they cannot tolerate some section of capitalist Jobs or capitalist Products whatsoever, and which neglects the possibility that if this is the case for anybody else in the world it has anything to do with them
+  - a Liberal has never met any communists and always assumes very weird things about what that means, informing their model of what all the other people in the country "getting organised" would look like and what ideology those people should have
+  - a syndicalist hasn't talked to very many marginalised people and assumes the whole world is only full of one kind of working class and if you just get all the workers into harmony they cannot simply oppress each other, the people who think the "White Working Class" can't hold the others hostage and force unnecessary conservatism on the movement are just complaining
+- an anarchist has a great plan to fix a local area and turn it anticapitalist but totally has not visualised the rest of the country around it or the rest of the world, and assumes that no possibility lies within the outer world of a fascist empire coming along and conquering their country or neoliberal countries fucking up the climate so much their area gets destroyed by the climate and anarchism has been mooted
+- a Trotskyist learns about a specific "expert" that other people haven't been talking about and becomes convinced everybody would agree this is the best expert out there if they could just come to the same understanding; without knowing anybody else's mind or experiences they proceed to assume nobody of any other ideology or Trotskyist "section" could have a better understanding
+- in the literal Stalin era, a peasant gets convinced that the Communist Party's policies are actually good although they aren't and virtualises the world as all the capitalist policies in other countries being doomed while collective farms are not
+
+- while many of these examples seem to just describe "overgeneralisation", what's important is what happens /after/ the overgeneralisation. in each case the person has formed an entire mental model of the world which will be applied to everything they do in their life — this is how the world has been "virtualised".
+- it's also true /anybody/ can make an error of virtualisation. Marxist-Leninists, literally anybody. it's not as if virtualisation is a "characteristic of flawed ideologies" that are worse than the best one. it can coincide with and undermine the best ideology imaginable and weaken that one.
+
+how virtualisation can create serious problems:
+
+- if somebody has virtualised the world around micro-/petty-/lumpenbourgeois status, where even if they see themself as a worker they believe their life goal should be upgrading to the next tier of bourgeoisie, they may focus on their own advancement before focusing on organising and solidarity, but either way, they won't be able to properly conceptualise a labour movement around shared proletarian status because they will always cling to bourgeois attitudes and concepts. until you get the lower bourgeoisie to genuinely give up bourgeois status and "aspire" to be proletarians, they cannot conceptualise what that even /is/ much less how to unify everyone around it.
+- if somebody has virtualised the world as Marxism being a certain thing it's not, or it only being about a small subset of what it's about and other factors as being more important, they may conceptualise an entirely different kind of future revolution such as a "postcolonial anti-racist revolution", and it will be hard to get them to organise around and "do anything about" the same material goals as Marxists have because they have created entirely different goals
+  - it must be stated that anti-racism is not a problem. but many of these ideas seem to totally ignore capitalism and capitalists as a factor in "colonialism"
+  - it seems like while US communists have tried to envision a coalition for opposing capitalism that would in the short term push for economic reforms, anti-racism has tried to envision a transformation solely about racism that would in the short term push for small reforms about racism. this isn't alarming /until/ you realise 'small reforms about racism' aren't shaking the material basis for fascism and the worst racism
+- if somebody has virtualised the world as the COVID pandemic being over and it's not, you can't organise people for better disease prevention measures and they may reject you for having the 'wrong' model of the world as if you are the stupid one
+
+one of the most unintuitive results of virtualisation is Lacanianism.
+in this ideology, /everything/ begins and ends with a model of a single mind, as if the theorist's mind exists before any other part of the world, and the /only/ part of reality that really feeds into human behaviour is the perceptions in individuals' minds.
+this is basically an Idealist model of reality, where a virtual field of 'minds' shapes the material reality. but Lacanians have trouble noticing this because they try to cover it up by narrowing their theory, and claiming things like that it only covers /social phenomena/ and everything else is material and works a different way.
+in this way I think there is a possibility Lacanianism could further feed virtualisation if it's not careful — and racism, and queerphobia, and fascism, and everything else that sits on it.
+
+importantly, the point of identifying "virtualisation" is not that every human being is required to know everything about the world. this is impossible.
+instead, the near-opposite of virtualisation is Materialism.
+- we could get rid of virtualisation and have it cease to be a problem if we could manage to get every political group to be Materialist, accumulating some particular set of factual knowledge that will combine into one shared understanding. if this were possible, one big non-specific "Left Coalition" could easily unite to stop the entire far-right.
+- but one reason this hasn't already happened is that "non-Marxist" ideologies often have a nasty problem of ending up /non-Materialist/, and through too narrow a focus, accidentally creating a virtualised understanding of reality. even if you combine all these virtual worlds they will not necessarily be close enough to the real one.
+- one way to fight virtualisation is teaching people about history and the history of different countries.
+  - it's key to get people to understand the people of other countries and time periods as /human beings/ that they could have existed alongside, rather than inhabitants of a separate reality just because they were in another country or time period.
+  - this is part of why I keep turning Trotsky into a weird instrument of Marxism-Leninism likely against his wishes. he is the perfect way to begin understanding his time period at a human level and "reopening" the discussions going on at that time without forgetting correct conclusions of them.
+
+
+## ideologies
+
+in many of these sections it may seem like I've slipped into talking about "ideology" and claiming that "ideology" keeps people from organising
+but really, I don't see those parts as a theory of "ideology" as much as /maybe/ a theory of material factors that lead people to having ideologies or not reflecting on why they have them. it's all about material things like people and incentives and how you should more closely examine those systems of material things
+
+I think that ideologies are their own phenomenon of a plurality of belief systems, formed from something like the interaction between an individual's goals and their material circumstances.
+- ideologies are a normal part of how individual human beings operate and understand the world, not some kind of unnatural thing only created by Ideological State Apparatuses in a particular economic system or something
+  - essentially I think there is no meaningful distinction between "ideology"/"ideologies" and "philosophy"/"philosophies". all philosophy is a subset of ideology, as is all religion, all ethics, and maybe /all opinion statements/.
+  - I half want to say that ideology is the basic top-level category for all beliefs, in the sense Tetrapods are the top-level category for things like dogs and birds. birds are a very specific thing but lobe-finned fish are the foundation on which birds exist
+- for me Heidegger's idea of Dasein or 'authentic being' easily leads to a model of ideological factions if you correct it.
+  - people have individual preferences and goals before they even enter into society, and once they compare existing in nature with existing in human society, they will decide which of their goals are more important than other people's or which they can cooperate on and thus form at least a simple ideology
+  - "inauthentic being" is nothing more than two people's sets of goals maturing into different ideologies and existing together uneasily.
+
+- ideologies have a phenomenon of "entireness" where there really are boundaries between one specific ideology and another specific ideology; Liberalism is not anarchism is not communism is not theocratic Toryism
+  - this is to say, people really do cross lines to new ideologies and don't always just gradually drift into a new ideology by picking up little pieces and then labelling it (although this can happen)
+  - another way to say "Entireness" is "coherence". ideologies are commonly a /coherent/ set of /connected/ beliefs.
+  - one could even use the phrase "Entire With" and say parts of Liberalism are Entire With certain other parts, where if you don't drop that whole network of parts they'll bring along the others even as you think you've created a new left-wing ideology.
+- ideologies and social networks are not fully intertwined but may be at least a little inseparable, connected to the phenomenon of Entire ideologies.
+  - individuals may feel like they have to cling to one Entire connected set of positions with all its limitations and baggage and can't cross the line to a new ideology because of their current social network
+  - crossing to a new ideology can be correlated with leaving behind one network of people who simply weren't listening and seeking a new network of people — although the causal relationship can go either way. you change your ideology and have to rupture or you rupture and then are able to change ideologies
+
+- a belief that ideologies are never Entire or are rarely Entire can lead people to nasty mistakes around ideologies, like thinking you can just accept/condone "part of" American conservatism and the rest of it won't come along for the ride, or that people in a workers' state like North Korea can label a number of arbitrary small things from different causes "bourgeois ideology!" and begin persecuting them when they are not signs of anything in particular
+  - this isn't to say that, for instance, when you have a little conservatism you necessarily have an Entire specific conservatism, but you do have an Entire whatever-ideology-you-have.
+  - said another way, if you pick one position out of an ideology it often has baggage in the form of other related positions. even if it seems like an intermediate, "apolitical" ideology, it may be Entire in this way, and if you naïvely assume it's compatible with your ideology because of one issue you could create a red-brown alliance
+  - right-wing dogwhistles exploit the general failure to understand and properly act on Entireness of ideologies, where people assume everyone always chooses individual positions one-by-one. an Entire conservative ideology of many connected points is crammed into one short phrase and pushed through because there is no universal social convention allowing you to simply call out "Entire! Entire right-wing ideology!"
+
+the significance of ideologies to Marxism and economics is that they are a kind of bridge between individuals and the rest of society.
+ideologies represent pockets of people settling onto the same decisions and strategies, but each pocket independently of the others and not in a coordinated way throughout all of society. in order to organise people, you will always have to deal with these pockets of ideology, potentially as a way to unify people, potentially as an obstacle.
+- in this way, philosophies like Lacanianism make a critical mistake by trying to act like it's possible to /not/ have pockets of ideology and we just need to eradicate them and do everything at the individual level. if you do that, you may be attacking the whole basis for any kind of change.
+- one of the very few genuine indisputable points Trotskyism can claim is that Stalin's government did not understand how to throw away ideologies without throwing away people. one big reason you cannot simply get Trotskyism to "stop" is most current ideologies find it hard to prove to them society won't turn on them and oppress them without them being very loud about whatever so they can't be successfully "thrown away"
+
+
+## interfactionalism
+
+I have been contemplating whether we need to create a concept that's like intersectionality but for ideologies.
+literally it would mean that one ideology doesn't exclude others from being a member of its faction as long as they are largely compatible
+but the true significance would be like, one ideology has a certain list of issues, and the other ones allow those issues in at least as its question if not its answer. this way, intersectionality itself can happen almost trivially as the right "historicist ideologies" are allowed into the faction, but issues that aren't so tied to identity politics can also come up
+
+this would stop Lacanianism dead in the water because one of its biggest complaints is that movements exclude too many people from their movements.
+however an "interfactional" movement would invite Lacanians in if they can propose at least one actually concrete and useful suggestion (please)
+likewise it /might/ be a possible way to deprogram Trotskyists and some kinds of anarchists from their errors without risking that organisations simply dissolve and people lose momentum.
+- a difference between what is done now and "interfactional communism" is it would explicitly try to listen to and integrate other sects if they can produce /anything correct/ instead of merely telling them they have the wrong ideology and effectively to go away
+- interfactionalism is definitely one of the many concepts where I'm not saying it's a new discovery — I mean, I think the Bolsheviks literally in fact did it for a given definition of it — only that the people of the United States are so stupid and uninformed you need to name it and describe it in words before they'll have ever thought of it.
+
+interfactionalism should never be an excuse for class collaboration or red-brown alliances.
+the purpose is to end up with as many correct ideas and as few false ideas as possible.
+
+
+
+## the utility of books
+
+in a sense, if this outline was "fully elaborated" it would simply become my "first book" in philosophy or that existed in my particular ideology
+but I think that if you really want to have a successful left-wing movement, producing a book can never be a goal in and of itself, the book can only ever be a side-effect of other things that almost writes itself.
+
+a problem with books: today producing a book is almost the opposite of organising people.
+most people don't want books. they want teeny tiny shards of content like ten-minute videos and microblog posts, or simply face-to-face social interactions and social relationships.
+
+- one of the very most critical things to realise about creating change and organising people is that talking at people leads to /nothing/.
+  - if you produce a quality long-form book, they might not read it or might not understand it. or they might hit a wall where they ""Disagree"" with the premises of the book (specifically in a very Liberal sense of the word "disagree" where you can decide the truth with your opinions) and toss it away.
+  - if you produce a highly informative ten-minute video like people want, they may not find it, or may not be quite sure what to do with it. this /is/ a better way to communicate to masses of people and get them to pass on the idea to others, but one really big problem is even getting the first person to see it and then the first person to acknowledge it or retain the information
+  - if you so much as send a couple paragraphs to someone to get them to rethink their strategy on some very specific thing, you may see an "unconscious resistance" where what you say is forgotten or people don't understand the actual significance of it and keep believing exactly what they previously did
+    - I'm still sore after the time people were looking around for 'advice' on how to climb up Twitter to get art commissions 'since some popular people had achieved it' and I tried to tell them that in this kind of competitive system almost everyone loses and you should really just get different goals — like maybe building a different system that's more horizontal than newsfeeds, I don't remember what exactly I said
+    - this was one of the experiences that led me to posit the microbourgeoisie and that we still need to proletarianise them.
+- I love to just pull Trotskyism out of my hat as an example: if some Trotskyist goes somewhere and gives a talk at people about "degenerated workers' states" or some other weird wrong thing, what's that doing to change anything?
+  - do you flip over any centre-Liberals by going on and on about Stalin? or would that require a Socratic dialogue with them about what they /currently believe/ and what they demand from Trotskyism in order to support it?
+  - (to be fair, I'm not saying you never get anybody that way. that's a real question and not a rhetorical one)
+
+- with this I have come to the conclusion that whenever you create media of any kind, from videos to reference books, you should make them as if possibly nobody will ever see them, and primarily to examine and further your own knowledge.
+  - a historical communist writer like Lenin would produce a book so people had a reference manual of how to properly understand reality and organising. so that people knew what to do "on the ground" when faced with workers who don't have time to read a book, not so everyone would literally go read the book.
+  - of course, if you make something, you shouldn't so literally assume no audience that you become unaccountable for errors, quality, etc. but you should see everything as an /exercise/ in learning to make better things
+  - making media can be a kind of "rubber duck": whether anybody sees them, you will be able to self-reflect and see if you can do a good job communicating something within particular limits or not (time, language register, etc)
+- you can make media, but to convince people of anything and change their behaviour you need /deeds/.
+  - capitalism is a system of relationships between material things. people, industries, products — connected by jobs, private property (sometimes a complete fiction!), mode of production, plans, etc.
+  - it always seems that capitalism would change or break fastest if we were able to work directly with Jobs rather than ideas and simply assert "I have a better job now, you can't put me in bad ones". but this is blocked by the way it requires individuals to form a new system in pieces when the new system can't function within the old system
+
+- it's sometimes said that people have fallen into "preferring entertainment to information", but I don't think that's necessarily a good model.
+  - I think it may be instead that people value /social interactions/ over information. a sports game doesn't offer much information but you can share it with others, thus "socially communicating that idea to others", so it gets to keep existing. likewise, a dumb pseudoscientific documentary can be background noise for social activities, so maybe it gets to keep existing too
+  - I think that if you're seen as violating the rule that all activities shared with others should be social activities inside a social relationship, people tend to resist. thus if you want to change somebody's mind you are all but required to /talk to them individually/ and /know them as a human being/
+  - it is an ongoing relationship over time that changes somebody's mind, not a couple of interactions. even at a large scale, people choose to vote for a particular Liberal party because of their relationship to that party or their relationship with local people who vote for that party
+
+- it may seem like I'm almost getting into theory pleeb's concept of "Functional Illiteracy", but I don't like that model because it presupposes being able to understand long complex books is the natural state of things and capitalism has ruined it, while I think almost the opposite is true: the era of capitalism has persuaded some petty bourgeoisie that everybody should be able to understand long books, and be able to buy them, and have time to read them, because writing books is their career they do for either money or status so therefore it /must/ be a legitimate and respectable activity.
+  - this is not to say I think books are universally a bad thing or outdated. I'm only trying to call out this particular attitude in its Entirety with all its connected beliefs and surrounding context.
+  - bad joke: Lacanians are guilty of Functional Organising Illiteracy where they don't understand that organising is not about books
+
+all that said, it's a worthy goal for communists to /aim/ for a world where people have more time to research and read and contribute to human knowledge with updated understandings of reality, and we can fill our libraries full of /good, better/ reference books.
+but the big thing to realise is we're not there yet. the era of capitalism is a time in which the masses cannot properly value books, and we need to work through it with things other than books so that books can /have/ their proper value.
+
+
+
+## "if you or a loved one got mesothelioma..." **
+
+in the United States, there is a whole cultural phenomenon of Mesothelioma Ads.
+on network TV, this one ad would play a lot which started with,
+"if you or a loved one was diagnosed with mesothelioma from exposure to asbestos..."
+and then went on to describe all the terrible unsafe working conditions where you could have been exposed to asbestos and decades later got cancer from basically little asbestos shards puncturing and getting stuck in different body organs. a nasty and horrifying disease   [*msto,*mad]
+
+this mesothelioma ad /alone/ could have been the core of an entire labour movement.
+like, this ad should literally be a list of demands that people aren't putting up with any more, and that nobody should think are okay to happen to anybody. and it's likely not the only example of that.
+
+but instead, we have a United States where everyone under 30 would quote the "funny" law firm ad and ask "what's mesothelioma?".
+this conceals a great many untold things about the United States:
+
+- people can't see even 30 years into the past and conceptualise what things were like 30 years ago, or approximately the latest time somebody could have first been exposed to asbestos and be diagnosed with mesothelioma today
+- nobody /knows/ anybody that can tell about the experiences of 30 years ago and explain why the "funny" mesothelioma ad is so horrifying
+  - there are at least two factors here: isolation of people into small enclosed social networks, and pressure on younger people to escape the older generation
+
+- we fundamentally have a culture where we can't prevent things and can only treat them. and we treat things specifically by some private capitalist coming in to make a profit on them. whether this is a pharmaceutical company or a usually-bogus "diet plan" or a psychotherapist or a law firm ad or something else
+  - this gets most disturbing when we can only "treat" school shootings. somebody shoots up a school and a bunch of conservatives appeal to mental health treatment while center-Liberals may appeal to gun control
+  - we are also terrible at doing the things that will /prevent/ crimes in poor neighbourhoods versus just a bunch of racists saying bad things about them, and putting people in prison
+  - impeaching Donald Trump: treatment, not prevention.
+- in our heavily bourgeois culture we truly believe that the law firm "does advocacy" or a charity or elected representative in a bourgeois party "does advocacy" and that whatever privileged bourgeois trying to help us treat our problems for their own advancement and gain is genuinely combating the societal problem in question.
+  - this is in contrast to like, a movement. a movement of regular people who is not merely building up a CV and rather is doing this most of all to address the problem
+
+- if you act like a problem that happened didn't happen or was no big deal for 30 years.... in everyone's mind the problem will truly go away until the day it blatantly comes back again
+
+
+
+mesothelioma lawyers, toxic waste lawyers, brain injury lawyers
+
+i have to wonder if Lenin ever was aware of or thought about things like this, when supposedly he started out studying law. i have no idea.
+
+if we wonder why we aren't addressing the Long COVID pandemic, well why didn't we address the mesothelioma pandemic. because mesothelioma gets diagnosed decades later. Long COVID gets diagnosed about a year later.
+it seems like we've learned that all it takes to make a problem not worth preventing and worth afflicting people with for life is a distance of one year from the initial harm, or perhaps even a few months.
+
+
+
+
+## Market of Relationships, human worth, and advocacy **
+
+in the United States, you can be all kinds of class-conscious and informed but if you want to convince anyone of anything at all you face a thorny problem with the society itself:
+each person exists almost as a kind of Product or Shop. the abstract notion of markets is almost the founding metaphor of society itself on which every other concept rests.
+- I think I'm saying that if you wanted to think in "master signifiers", the United States does not start with the Phallus (i.e. sexual differences and their transformation into our concepts of "becoming Mom" and "becoming Dad"), it starts with the Market of Relationships.
+
+
+
+
+
+we are constantly sold the illusion that you simply begin with Life as a primary thing and then you go to a Job second, and perhaps the Job gets in the way of Life
+but really that's almost a kind of "fake socialist attitude" used to make us think our society has grown past Mere Capitalism into something better when it hasn't
+in reality everything is built upon Jobs including Life.
+your entire notion of whether you deserve Life will be formed around how good your Job is and whether you've managed to secure one at all, and other people will never do anything to challenge this dynamic if they don't understand the concept of abolishing capitalism.
+- this is why I think "merely organising people for better working conditions" isn't more effective than it is. you don't necessarily have a foundation for getting people to not give up and continuously stick up for themselves if you allow them to accept the default belief that Jobs are the foundation for their existence and they don't really have the power to replace that with a better philosophical foundation "any time soon"
+
+
+
+
+
+the Relationship Market creates problems for getting people into organisations because they may feel like they don't have enough to contribute and the organisation is just going to stagnate and accomplish nothing if everyone in it were as 'useless' as them
+- in this way people can actually have hidden wisdom: "wait, but what are we actually trying to do here? can we successfully do it or do we need to re-evaluate our strategies?"
+- this is one reason I think that organisations neeed to shift from /saying/ some list of talking points to /asking/ people what they actually want in order to become a member
+
+
+
+
+
+
+
+
+### advocacy **
+
+soviets as metaphor
+
+the United States needs to rebuild the whole concept of advocacy
+
+we can hardly successfully advocate for anything to anyone
+so how do we get the strength to collectively bargain for any shared set of rights
+
+
+
+> all the local people around me are hateable because they think covid is a lie and the vaccine is dangerous/evil (conservatives) OR covid went away (everybody else)
+> we do not even have the small chunk of actual communists quite unified around the idea covid is dangerous and present and we need zero covid
+> we live in just these strung-out small nests of people so i see the same hateable people a lot
+> and i sometimes question for just a second if it's my responsibility to educate them because otherwise I just don't know how any of us will make it out of this in one piece.
+
+
+
+social media market
+> sometimes it's not even necessary to deliberately create incentives. sometimes the natural preference of viewers for one kind of content over another will create competition
+pressure to do specific things to fit in
+meaning supplied by market
+
+preferring the social to real action
+what do you do when you have a society that's purely social
+
+centuries ago people had few routes to criticise class society other than religion
+so people would construct arguments like: if you become virtualised and you decide to live your life only for yourself and accumulating material wealth that's bad because God or something. it may seem like there are no consequences if you don't care about anyone else and then you die and nothing matters, but you'll be judged in the afterlife!
+it's great to be unchained from having to tie it to a religion but what do we even tie it to
+it seems like death is just an infinite loophole for virtualisation, where you can't really argue there are truly consequences of being virtualised for the individual, and if they're virtualised they may not understand harms to other people.
+
+
+> all society is shaped by the fact we have to be accepted by others / "be useful" to be part of society
+
+this is ultimately not a terrible idea because
+we can redirect this into the idea that every human being is /inherently/ some minimum amount of useful and you can't take that away.
+and from there that it's on everyone to direct "surplus people" to some way they can contribute to society, rather than it being on the individual to prove they are useful and deserve to live or be part of society
+
+
+
+
+
+
+
+## non-corporations
+
+what is the actual purpose of a corporation?
+arguably, it's a primitive economic government structure used to initially build part of an economy.
+
+centuries ago, you had to found an oil company to create the American oil industry or whatever. people would found three telephone or internet companies and over time the various companies that existed would all merge into The Telecommunications Industry owned by one group of people (perhaps with some fake duopoly of exactly two phone carriers so nobody sees the whole thing is just one entity).
+
+but at a certain point around the 1990s or 2000s corporations became "platforms" and every startup would show up with an internet platform for its users to operate day-to-day — facebook, meetup, deviantart, livejournal, ebay, just endless piles of these services where effectively users do most of the work
+- and the weirdest part was these were /not/ profitable, they would often close or get bought out after a few years, but they still kept popping up over and over again.
+- thus the so-called "dot-com bubble/boom" feels like the perfect demonstration that corporations are really just economic governments begging to serve people and accumulate 'citizens'.
+  - all society is shaped by the fact we have to be accepted by others to meaningfully be part of society, but corporations in particular primarily face a pressure to /be useful/ as services in order to continue to exist.
+  - the Liberal understanding that corporations "must be profitable" or "must get paying customers" is actually quite wrong, as corporate services like YouTube can stay open on nothing but advertisers deciding they're useful and deciding to fund them.
+
+what's more, at a certain point people got tired of /corporate/ platforms and started imitating the same "platform startup" structure with completely community-run / volunteer projects such as Wikipedia and the fediverse. there were piles and piles of these as well!
+at this point an entirely new thing had been created which was an economic organisation with a clearly-defined purpose producing Stuff but where nobody necessarily got paid — nor was there even any /monetary valuation/ of things — unless the purpose of the platform was to allow users to sell something
+in cases like mastodon and peertube, these projects would even have "backend engineers" who would program the platform's software or troubleshoot its bugs and not get paid.
+
+this brings up a serious question of if workers' states up to now did not properly anticipate what the expansion or turnover of an economy actually looks like.
+- in the time of the Soviet Union it was assumed you would need formal government ministries to coordinate the economy (though this had multiple reasons, like that they hardly /had/ an economy at the beginning)
+- then countries like China saw that "state capitalism" was more effective and simply allowed corporations to form and build parts of the economy
+- meanwhile capitalist empires gloated that their unregulated corporations were making so much money, trying to act like they were the only real option, and also eventually saw the rise of a bunch of for-profit and non-profit "platforms"
+
+so what if fundamentally the rule of thumb is that any economy grows or changes through discrete Projects in the vein of Google or Wikipedia, and the role of a workers' state should be to shepherd the Projects into some kind of order and watch them merge into non-profit monopolies themselves rather than to focus on formally establishing "ministries" or "state industries" that will replace Projects?
+the transition away from for-profit corporations would then be to non-profit Projects.
+
+the Soviet Union could not have foreseen platforms
+if you had tried to explain to them people would just make wikipedia and /nobody/ would be paid they would probably find that surprising. they always went by these assumptions you had to have like, an era of socialism where you have a publisher and a fair wage to get everyone to write that much stuff that everyone else would also find useful every day. but that isn't the way things have shaped up; instead people create giant volunteer projects /first/ and they they fall apart or stagnate because people can't get compensated or even find a sufficient day job
+
+it's very strange. early communist writers always assumed the problem would be getting people to work and take initiative and you had to create a society that would encourage it.
+but instead it seems like things have developed backwards and we've all gotten stuck in this stranglehold of capitalism where so many of us have all the motivation in the world to build something and innovate but we can't get compensated because everything is spread apart and privatised (and poisoned by this notion of competition-as-democracy where projects getting no feedback is seen as a personal failing) so we really need some kind of system of planning and coordination so we can get compensated and obtain jobs we will actually have any will to be productive at
+
+
+## uneven development into the era of communism **
+
+the phenomenon of industries going from regular for-profit corporations with employees, to platforms with unpaid "creators", to finally, very slowly, community-run platforms was /so/ strange I had to question if everything we knew was wrong.
+- at the time I first considered this, I was still very new to Marxism. I really ended up going deeper into Marxism and catching up on its history /because of/ my troubles with explaining what was going on with "platforms".
+- so, the way I thought of it at the time was close to "I'm not sure Menshevism will do it, do we really just need to entirely reinvent Jobs?". but now I see that even if I'd started at a perfect understanding of Marxism-Leninism, Platforms would even have challenged the boundaries of that.
+
+Platforms are still quite an enigma to me with a lot of unsolved questions.
+
+- starting at the big picture with some pre-Marxist ideas,
+  - we have nobility with certain territories, we have monarchs that conquer them and create single nations or empires, we have the feudal manor system where some local noble puts a bunch of peasants on a manor
+  - then at a certain point the democratic republic is created, and miscellaneous people of a nation replace the king with a republic governed by some more elaborate structure or political party
+    - the prototypical example is the French revolution, the peasants and bourgeoisie alike cannot stand the manor system or the king so they destroy both and attempt to create a new thing
+  - then capitalism is created. capitalists found corporations which serve as the basis of industries, or colonies which will be conquered on a new continent. people work in the industries doing capitalist production as a part of life, or a few attempt to found their own corporations, and groups of corporations exert control over "democratic" republics and what policies they will have
+    - but capitalism is inherently connected to war and conquest as a matter of expanding industries and larger business empires as widely as possible. it does not simply found industries /but also entire colony countries/
+    - some colony countries successfully break free from capitalists and restart the same cycle, maybe taking their own colonies, while others remain stuck as Property. in this way capitalism is a bit of a "coloniser creating machine" where countries force other countries into the image of a weird offspring of themself... for profit
+    - there is little distinction between the colony cycle and fascism besides "one is a bit meaner"
+  - then, really starting around 1800, Marxism starts to emerge. people do not like capitalists and corporations and their power over democractic republics, so they overthrow the "dictatorship of the bourgeoisie" and the workers' state is created.
+    - some of these movements even attempt to overthrow the colony cycle, but usually don't succeed. arguably North Korea and Vietnam successfully broke this cycle, however well they did after that
+  - within workers' states a few things are tried such as local co-op structures, government ministries, soviets, attempts to regulate corporations, there are a bunch of things going on
+  - a noble founds a structure: a province or manor. a king founds a structure: a nation, which becomes a republic. an emperor founds a structure: an empire, which becomes a federal republic. a capitalist founds a structure: a corporation, which becomes /maybe/ a state-owned enterprise subject to soviets.
+    - notably I am not really sure if a colony freed from the colony cycle becomes anything in particular.
+- I have no idea where Platforms fit in this history.
+  - you don't really found a pay service like a tv channel that then itself directly turns into a corporate Platform like YouTube. they just kind of pop up as Platforms.
+  - one thing that does typically happen to them is they get bought and are part of huge monopolies like Google or Verizon, because that's the only way they can stay open.
+    - Amazon started with simple retail and then added an ebay-like Platform to what it already had
+    - so they're like, always a 'late in a business's life cycle' kind of thing? only a Gigantic business really gets to have them
+  - I think Platforms may be some kind of evolution of the general idea of retail; with retail a ton of other corporations make products for you, but if you're really greedy for the most products you want marketable products from every individual
+    - in this sense Platforms could be thought of as 'so capitalist they exploded capitalism'. they are trying to create a system where Every individual puts products onto the market for the retailer to profit off and Every individual buys the products benefiting the retailer
+    - but because that's not literally possible, advertisers have to buy the products. you have a cluster of big bourgeoisie all shuffling money between each other so the non-platforms can buy more 'user generated content' from the Platform
+    - in retail it's kind of like you've got a three-tier relationship. the hyper-capitalist employs the capitalists employ the workers.
+
+
+-
+
+
+
+
+
+
+it may be worth considering that part of the reason we haven't shaken capitalism is we have very few people capable of "building socialism" and operating that new transitional system.
+this is not something to be said in an accusing way pointing fingers at people, but simply a problem that may need to be remedied before we get robust organisations that won't just put up with capitalism.
+
+
+
+
+
+
+
+## copyright and "publishers" / "free as in Marxism" **
+
+who came the closest to being "a communist writer who understood socialism with American characteristics"? 
+Richard Stallman!
+he's not a communist, but he came much closer to an insight than people like Trotsky because he was actually able to take a moment to envision a United States entirely beyond private property with a new notion of freedom.
+
+in "the Free Software movement" there is this whole discussion on the idea of libre vs gratis
+GNU project pages explain at length how the software is free as in liberated, no it's not gratis
+and it's always written as if people have a really hard time understanding the idea
+
+a communist would understand this freedom immediately
+'ah, right, the freedom from capitalist ownership of your tools of production.
+the software isn't necessarily gratis because we need to reproduce the workers, but it's nobody's individual investment they gamble on the value of as a career and restrict people from to keep the investment to an individual or small group'
+
+
+
+copyright may as well be called Bourgeoisright.
+
+copyrights support / are highly compatible with the Liberal distortion that labour is owned by the individual as *productive property* which is the individual's investment, and ultimately everybody should live off individual investments.
+the notion that labour "is" productive property is to say no proletarians exist, only a progression of lumpenbourgeoisie, microbourgeoisie, petty bourgeoisie, big bourgeoisie. which really is how a lot of Americans see the world.
+
+
+"publishing" is an outdated and bourgeois concept — currently. it doesn't exactly have to be.
+
+
+
+Authors' Guild - not a workers' organisation, a bourgeois organisation
+many attempts to "organise workers" are confused by not knowing the difference between living off private property (bourgeoisie) and living off wages (proletariat)
+many "workers" actually live off private property, whether it is directly held by them (like a stock or investment with their name on it), or the corporation has just made them so dependent on the corporation that their standard of living is most directly affected by changes in the corporation's private property versus literally anything else.
+this is very important to understand because if microbourgeois "workers" fully believe things like that an author's wages can /only/ be obtained through private property, they will defend capitalism and individual corporations or petty bourgeoisie. they will make colossal errors like pointing at a particular petty bourgeois like J.K. Rowling and saying that because she is a "worker" (living off a huge heap of capital) she can dictate every social opinion such as whether people can be fired for transphobia.
+this is literally the dictatorship of the bourgeoisie — Rowling is the bourgeoisie, but here gets to tell every actual worker that may exist what's acceptable if you want to be in the communist movement. you can see how this movement would /very/ easily undo itself before long as the bourgeoisie repeatedly objected to real change.
+
+
+
+china banning individual mapping so government agencies can do it
+fundamental misunderstanding of property
+copyrights are completely invented property used to fabricate power relations
+a workers' state should allow people to create a shared project as a matter of not literally owning individuals' activities and of encouraging them to be more productive voluntarily
+in the time of the Bolsheviks they searched hard for people who simply felt like putting in more effort.
+it is a grave mistake to overlook community-run efforts that are basically building the future eras of the economy for you and taking away a lot of the uncertainty about what is going to exist after corporations and what the workers' state should be trying to encourage
+
+- of course, I do need to make clear: this isn't a Trotskyist argument that is trying to point out that this one error regarding the mapping agency 'clearly' breaks open "state capitalism". I just listened to this thing where Socialist Appeal was trying to tell all about the kulaks and were blaming Stalin's government for improperly encouraging more capitalists and private property, so yeah
+
+
+
+
+
+
+
+## corporate control over consumer products **
+
+
+
+maybe we need to concentrate less on building new open hardware / ground-up software,
+and more on simply "forcing the corporations to undo the restrictions on hardware" in some sense
+
+maybe this is an economic relations problem where the real problem is we let corporations hold power over us
+and we really need to say, no, you Cannot hold power over what users do, that's capitalism stealing a toothbrush, that's improper
+
+it feels like we always end up fighting with "who is running our computer" even if it's merely a FOSS foundation or BDFL we don't like
+
+
+
+
+
+## could users revolt? **
+
+if we conceptualise corporate control over products as a problem of consumers not advocating for themselves,
+we can imagine an almost soviet-style movement where users of things decide to assert power against whoever runs or develops them. /whoever/ develops them.
+
+this may seem scary at first to somebody who develops something entirely independently and unpaid
+but ultimately, it would be an instance of a terribly fractured society stitching itself back together.
+
+in the Free Software movement, a very strange belief goes around that there can be a notion of "his project", "her project", "their project" — if the leader of some project makes a decision you don't like, "well it's their project!".
+if a corporation pulled this we would call it bourgeois thinking and call out the corporation's leadership for making decisions its workers or customers might not agree with, in that situation likely for its own gain.
+however we find it hard to fully let go of the idea of being microbourgeois where whatever you contribute to society is still owned by you and used to exert power over others to advance your own status and/or net worth.
+
+it may be that if we want to build a stable society we must accept the idea that all Projects are created on behalf of the rest of society, and everyone who interacts with them a certain amount must be allowed to be part of the process of shaping them.
+
+- I first began developing this idea in the period I was actively using mastodon, and saw a whole lot of people getting upset about the way FOSS projects were going or what wasn't finished although they had no ability to code or time to learn it.
+  - many people were too busy with day jobs to learn to code. I'm not sure whether they qualified as proletarians, but taking things charitably, maybe they were and this was a moment where we can see that worker democracy is not enough for working people because they will always be affected by /other/ workplaces or organisations making bad decisions, even if democratic, even if nonprofit.
+  - the idea of User Democracy was quite foreign and novel to me at the time since I had not fully reached Marxism-Leninism yet or learned what a soviet or planning system was. but after seeing the happenings I saw, it was hard to reject the facts. I just quickly accepted that not everybody would have the skill to Produce whatever thing somebody produces at a job and unless or until we got closer to closing that gap we would need some kind of User Democracy that even I would be subject to.
+- I also saw the pattern repeat other places such as YouTube.
+  - a whole lot of youtube videos were just people complaining about some consumer product and how the corporation should have made it better. though the reviewer typically had no concept of just ending Bourgeois Production — they could not imagine a world where somebody from the community could just be allowed to go to the company and innovate, 
+
+- for a little while I tried to rationalise User Democracy with a model where a new class of Consumers was emerging inside platforms that would have to struggle against overly skilled proletarians and petty bourgeoisie to equalise control over daily life. I don't necessarily hold to this any more.
+  - for one, I did not really understand what classes were at the time I was making this model.
+
+
+- dictatorship of /Pokémon/
+- at this point we have a dictatorship of the bourgeoisie over our entire lifestyle
+  - conservatives do really gross things like rationalise unsatisfactory things about "Women's" clothing as "just the style now" — that is, the market spoke (although it maybe didn't), the bourgeoisie decided everyone would experience this product a certain way with a certain idea of gender, and now everybody has to accept what the bourgeoisie gave them because Free Market or something.
+  - family members would police what I was allowed to buy on the so-called Free Market and I reached a point where I just did not want to buy any new clothes or anything until I could live in my own housing unit and never talk to them. which still hasn't happened, because good job capitalism on making houses available
+  - and then.... when they'd see I was reusing or repairing old things, they'd get worried and spontaneously try to buy me new things. it became clear that United States culture is all about always having things that /look/ shiny and expensive but it's okay to throw them away after a month or a year as long as you /look/ richer than a black person from a poor neighbourhood. products are /only/ window dressing.
+  - the most outrageous part is that people simultaneously believe in Bourgeois-Productive Dictatorship and 
+  - think for a moment about how even christian bibles are actually a physical product and somebody is actually making money if a certain segment of people engage in activities that involve more people seeing or obtaining a bible, as long as it results in any new bibles being printed or sold
+
+- sometimes it seems to me like the people of the United States actually interact with consumer products more than workplaces or working hours, and thus maybe the only way to get a large number of people to consistently resist capitalism is to ally everybody against bourgeois products and demand proletarian products which don't allow capitalists and relatives to force certain social practices into people's lives for the benefit of the bourgeoisie.
+
+- it's hell trying to explain that you can't merely solve a social problem involving the interactions between people /for one person/. if you conceptualise all of society as the problems facing an individual, a bunch of mean individuals who are individually mean to other individuals can all suddenly unite and create fascism and there's nothing you can do about it.
+
+
+
+
+## continuous production and "creatorism" **
+
+in the era of capitalism everything had to be packaged into a discrete product and sold as-is
+but in the internet age it is now possible for many products to be produced and published in partial increments over time
+this is a good thing for consumers, because if the product is going a bad direction they can now speak up before a given version is fully finished.
+this concept must be integrated into proletarian democracy:
+democracy applies /to/ workers and it is not just /for/ them. worker democracy must also include a dialectic with consumers so it does not become some kind of "dictatorship of co-ops over consumers".
+
+creatorism - the successor to consumerism
+everyone gets to be a 'creator' rather than "creator" being a bourgeois role only to be done by the people who own centres of Bourgeois Production
+
+
+it's actually a little easier to conceptualise a solution to continuous production if there was a planning system, because then a particular amount of work could be requested and the person could "take a break" and do other work between requests rather than people having to begin work and then ask for compensation
+
+
+
+
+
+## Nests.
+
+in trying to explain how it is the United States "is mostly proletarians" or in my model "is mostly a bunch of almost-proletarians who could easily flip over", yet still remains really resistant to organising,
+I've sometimes used the term "Fascist Nests" to describe a social structure where people who are actually receptive to left-wing or even Marxist ideas are born into the middle of a vast sea of right-wingers who are all resistant to the slightest suggestion of anything new or anticapitalist. every person who can organise is surrounded on all sides by tens of "stupid people" who won't.
+- here's how it goes: without any Marxism or history you try to describe one simple way to improve society, and the conservatives or centre-Liberals say, "okay but first you need to get an Income by Any Means Necessary"
+  - "I think we have all the jobs we need and there are no jobs for me so I want to innovate" "haha that's funny, go subjugate yourself to some capitalist doing busy work or else die" "but I may never produce my innovation, how is that life even worth living" "you must not understand Life? you live it just to live it. nobody has to innovate :(" "what if I have dreams. you know, what if I want to Be something when I Grow Up as everybody always says" "I don't understand what you're talking about, I'm not sure that even exists"
+
+now I've come to see this phenomemon as more like "Bourgeois Nests",
+where Additional Bourgeois Classes help at least partly explain why they behave the way they do — and why they don't seem to give way to even moderate social-democrat organising for "all the reforms we can get".
+I've also taken to just calling them Nests for short.
+
+more characteristics of Nests:
+- Nests are not precisely a material thing but more a set of social relationships formed on top of material life
+- however each one does likely sit on a particular physical area, since people's social relationships are often affected by geography.
+  - Nests go along with the phenomenon of the United States neatly segregating out All Bourgeoisie into one area and All proletarians out of that area.
+  - Additional Bourgeoisie become like a tool to convince people the neighbourhood hasn't been selected specifically to be bourgeois. look, workers are born here all the time! and any of them can Start a Business and become the petty bourgeoisie! those are totally workers and not the microbourgeoisie, what does that even mean?
+- gentrification is a subset of the greater Nest phenomenon with a more racist focus. in it people semi-intentionally build a Nest of the kind of people they want to live next to, whether they think it's to escape 'poor people culture' or simply non-white people period.
+- the Nest could also form itself around an ideological faction, as more people decide they dislike the ideologies people have in other areas and move out of those areas into others.
+  - conservatives may believe the city is too centre and they need to go form their own Nest, while privileged centre-Liberals in the city may also form a separate centre-Liberal Nest.
+- one promising thing is that some people are genuinely upset about the kind of life you get within Nests, even if they qualify as Additional Bourgeoisie.
+  - they may be very confused on the actual reasons they're stuck in this kind of life, to the point they can't truly challenge capitalism or Nests in any way. but they certainly don't like it.
+- as an "ideological" phenomenon, Nests most likely have material factors underlying why they form and why people would decide to form them instead of not doing that.
+
+why is it that Nests probably happen?
+well, I came up with the idea of Nests because I grew up in a suburb and had a very hard time 'launching' out of it in any way. I felt like I was stuck in a nasty little "nest" of things that thwarted me from getting out.
+here is what I see materially happening to create the physical place I grew up:
+
+- jobs and employers centralise into cities and towns
+- people (Liberals) won't fight capitalism so they simply let jobs drift to whatever capitalists, and capitalists locate themselves wherever they want to
+  - some people will defend this layout as "better than the alternatives" and say it's fine for it to be baked into zoning codes so nothing else is allowed.
+- we end up with a layout where there is a town full of actual economic activity, and big swaths of suburbs that produce basically nothing
+- whole generations of people grow up in an area where inherently there is nothing for them to produce in capitalism and they are just surplus people; it costs at least US $4,000 for them to become proletarians, so they have almost no choice but to be lumpenbourgeoisie
+  - the $4,000 may be the cost of an extra car, a university degree, a living space, etc.
+  - in any case, it's the cost to get out of the physical Nest area or to convince an employer to hand out a job, or both; maybe for some people it will be $8,000.
+  - maybe for some people it's $4,000 house/car, $4,000 degree, $4,000 psychotherapy to have any will to live or work. and even all that may not be enough to get them out quite yet.
+- some people will manage to fit into the social environment of the Nest, and cooperate with its other inhabitants to scrape together the $4,000 exit fee and become proletarians
+  - perhaps the Nest is very right-wing, and they blend in by being a bigoted conservative, or maybe they luck out and get a centre-Liberal Nest and blend in by not questioning the US Democratic party
+- other people will find it difficult to successfully find anyone to take their exit fee, and find that aiming to become petty-bourgeois is easier
+  - this may include things like YouTube channels, patreon, running an ebay shop, art commissions, becoming a "grifter" and selling political but useless books
+  - art commissions, for instance, could actually vary from proletarian-for-hire to petty-bourgeois depending. this is one of the situations where it makes the most sense to just label them "microbourgeoisie" and say they need to be connected to some kind of currently-vaguely-defined "collective structure for proletarianisation" in the future and call it good.
+
+- physically and spatially, Nests are a place where there are a bunch of /people/ to go through but no jobs. they are like a 'job desert', or a saltwater ocean with no good water and all the water-boiling islands very far away
+  - in the past, when there were serfs on manors or even farm capitalists, people depended on some maybe-modified form of nature to survive... but now we've arranged things to where we depend on /people/ to be allowed to reach other people who then possess tools of survival.
+  - it's easy to see how people are prevented from becoming class-conscious if there are literally a bunch of people standing between them and work who they have to ask "do I have permission to work?", and any of those people could be corrupt and decide to make it harder.
+
+this may open up the possibility that if the United States wanted to have a 'traditional' workers' movement as has happened anywhere else,
+it could be done by proletarians calling a general strike AND everyone who has failed to make it to the proletariat /refusing to pay exit fees/. I won't buy a car, I won't pay a university, I won't satisfy a capitalist to land a job, but I will join the strike, or attempt to create non-capitalist workplaces in which to put everybody who won't pay exit fees (which must be able to directly substitute for local capitalist services at least a little bit). if these workplaces come to exist they will be the only ones open.
+the only real way to give exit fees no power is to make sure everybody can get into work without paying them, so everyone can get into work /immediately/ and throw a rude gesture to the concept of "unemployment". but this is very difficult without proletarian movements either /paying the exit fee/ (!) or /abolishing capitalists/.
+so it may be that a refusal of exit fees could literally only happen as part of a revolution.
+
+
+## "Cultural Marxism" conspiracy theory as reversed Marxism
+
+United States fascism basically believes that
+1. it must turn everyone into the bourgeoisie, no matter how micro- of bourgeoisie they end up as
+2. the United States is the best country on earth — this being an axiom — so it deserves to be a civilisation of entirely bourgeoisie, even if that results in other countries having to be a civilisation of workers, even if other countries should be conquered or die
+3. all "successful" civilisations should become bourgeois civilisations that turn everybody into the bourgeoisie, everything else is savagery
+
+it's very easy to derive every idea in US fascism starting with just the idea everyone in the United States should be the bourgeoisie and anybody that isn't is some kind of aberration or enemy.
+in this way it resembles a kind of "reversed Marxism" where bourgeoisie are good and proletarians are bad and you had better not interact with any proletarians or proletarian ideology or you undermine the whole existence of the United States.
+(or, you could say the United States is constructed as one gigantic, country-sized Bourgeois Nest.)
+
+this in my mind is the connecting thread between entirely centre ideologies with no content and "encouraging fascism".
+it is not that Joe Biden is blatantly fascist or Liberalism is blatantly fascist as much as that US fascism neatly dovetails into the current class structure of the United States (and the spatial layout of classes) and the system will naturally evolve to fascism if you don't /challenge it/ and at least unseat the petty- and microbourgeoisie.
+
+
+
+## creating a good world for crows **
+
+seeing things at a worldwide scale is a core idea for me
+I don't think I could ever go back to any ideology that's not international or doesn't consider the environment outside human societies... the whole environment
+
+I think of it day-to-day like, there are so many other organisms on earth
+corvids in particular are very intelligent and seem the closest to developing self-awareness of any bird
+what's it like to be born a crow and go through your whole life not really having any idea what humans are talking about or doing?
+the crow, raven, or magpie has a certain small amount of "culture" and "social practices", it is a social animal that lives in a particular family or group and develops particular habits over its life largely based on its surroundings   [*cc]
+
+imagine human history from the point of view of a crow population.
+
+
+humans proceeded to destroy a lot of the environment in the process of "developing" each country
+and then they pointlessly fought each other
+
+corvids in particular had some ability to adapt to existing in human cities, but in general,
+every life form on earth was subject to being destroyed because humans could not cooperate or contain themselves
+
+the crows did nothing to deserve this
+
+
+recycling was supposed to be one way individuals could pitch in to help contain the environmental effects of capitalism.
+but it costs money to run a recycling plant, so recycling plants find it hard to run unless they sell the recycled materials back to corporations.
+- you'll frequently see a recycling plant stop taking glass or stop taking tin cans, etc., but meanwhile a soda corporation starts an independent program to take back aluminum cans, basically a privately-owned recycling program to send materials to a particular corporation that happens to be offered at no cost.
+  - a number of products are available in stores that are "made from recycled materials", but guess who had the resources to make them. corporations.
+  - do you keep a lot of recyclables? want to actually get them recycled? good luck starting a business and selling products to people to attempt to scrape together enough money to stay open, because you won't be able to convince Liberal governments to do it and existing businesses may not even pay you for the materials.
+- in effect corporations are always in charge of whether we have recycling or everyone throws things away, because they are in charge of /everything/ we do with materials on a large scale.
+  - this is simply how Bourgeois Production works: customer is not in charge of product, corporation is in charge of product. want to recycle a product? oh I don't want to do that production, that's too expensive.
+- this is another example of anarchism's 'industry problem' because in order for anarchists to implement functional recycling programs, they have to create entire anticapitalist businesses and industries that will use the materials to ensure none of them will be thrown away or be considered 'too costly to use' without recreating capitalism.
+
+
+you could make a similar argument with indigenous populations or /any/ other human population outside a given country and the right of any of these other people to live
+but honestly I think using animals is more effective because then it's impossible to invoke some uniquely human concept of why you can dismiss another population of humans as acceptable collateral damage.
+the crows should be an objective wake-up call about the fact that things outside our particular civilisation will always be affected by our decisions inside the civilisation and we cannot get out of this with excuses like "I couldn't build an alternative to capitalists tomorrow, so I don't know how to stand up to mismanaged industries and habitat destruction".
+
+
+
+
+
+## who are we organising for what? **
+
+the biggest blind spot in communist strategies in the United States (and possibly other First-World countries?) is not foreseeing the possibility of /other/ left-wing ideologies winning the struggle to lead "The Left".
+
+there are understandable reasons for this:
+- many Marxists don't fully know about other ideologies or know, for instance, that Žižek is actually a Lacanian and it's a totally different model
+- each major group of ideologies tends to silo itself such that Marxists talk to various kinds of Marxists, anti-racist academics talk to each other, and Lacanians interact with Lacanians and things that would serve their kind of model
+- even when you look into the others, Marxism is one of the most Material and "correct" models, so how could something less empirical and comprehensive win instead of them?
+
+it's very appealing to think all we need to do to win is have a materially correct model of the world and act in accordance with it, and simply get everybody to the correct understanding.
+but in an era of virtualisation and Nests and "preferring the social" and the Relationship Market,
+it's unclear whether we are actually allowed to operate on reality or whether there is another special set of rules for successfully organising people. it could be the case that while Marxism is correct, we need to use a completely different ideology to be able to "unglue" people and get them to act on its conclusions
+
+alternatively, maybe we /are/ allowed to operate in reality but implementing interfactionalism requires "playing every side of the table".
+if we want to organise as many people as possible, do we all have to learn about a bunch of different ideologies and teach everyone about ten completely different ideologies just to get a "bite on the line"?
+- "hello, this is the Left Coalition, here is our info card with the top twenty distinct left-wing ideologies, do any of them appeal to you"
+- personally, I actually wouldn't mind this. if there was any significant hope of the "top 20" gradually merging into each other and cooperating more as people from one ideology recruit people to the others, I think it would be fully worth learning about and even campaigning for other ideologies.
+- in a way this would be kind of analogous to when a megacorporation buys up 50 competing brands and profits off all of them. we offer you a ton of different ideologies to choose from but they're not competing any more.
+
+
+
+
+## "coalition info card"
+
+### Marxism-Leninism / Stalinism
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## uneven development into the era of communism **
+
+Free Software is one of the strangest things for anyone to invent inside a capitalist society.
+it's as if software development skipped to socialism and abolished private property, but nothing else did.
+
+likewise the existence of completely community-run ad-free platforms is just as weird.
+OpenStreetMap, Wikipedia, archive.org, linux package repositories, the fediverse, 
+here it's almost like people got /so/ tired of capitalism they skipped all the way to communism.
+though in neither case did people have any idea that's what they were doing.
+
+like this, First World countries may actually be full of small "previews" into the eras of socialism and communism,
+neither of which can stably expand over the whole country without the right kind of support
+
+this exposes a deep unsolved question in both communist and anarchist thought:
+what are our movements supposed to be doing if our country is developing unevenly?
+one part of material life is capitalist Jobs, another exists without private property and by people voluntarily creating and running public services - but without any kind of proper support for its workers or keeping its services open long-term in any sense.
+it's like we created a new way to build social institutions and products which requires neither taxes nor capitalist unit prices and fees, but we fundamentally cannot pay for them or give them any kind of long-term preservation
+
+traditionally such "Socialist" movements have always defined themselves as "labour movements"
+but is that what the task really is?
+or do they need to address all three simultaneous phases?
+breaking workers out of capitalism, removing capitalist control from daily life, proletarianising the "lumpenbourgeoisie" and "microbourgeoisie" so they don't reproduce corporations, removing unnecessary competition seen in places like The Youtube Algorithm that encourages people to become petty bourgeoisie, leading society away from the concept of "investments", creating organisations that don't close in a short time and can manage the new institutions, compensating people to create the new institutions so they don't give up and reproduce corporations, getting people from massive duplicated effort and waste to coordination so projects can be finished, generally replacing the concept of Jobs with something that doesn't require constantly producing and selling crappy Finished Products
+
+at least half of this is already addressed in Marxist-Leninist writings, usually as things that happen 'after the revolution'
+but the United States has done a strange thing of darting into the future on some tasks while trying as hard as possible to keep capitalism intact and make sure even social-democratic programs are literally replaced with somebody's private investments.
+- we can have free abortions and vaccines *only* for employees at specific corporations, otherwise vaccines and abortions are both really evil. ditto with gay rights, you only get them as an employee at your really nice friendly corporation and not in the overall society
+- every health service is private: the "government health insurance marketplace", health savings accounts, corporate healthcare benefits, the recent attempt to privatise Medicare
+
+
+
+
+
+
+
+this implies an anarchist revolution involves flat-out building the societal structures of socialism which will be used instead of corporations and capitalist employment, and it cannot succeed if all it does is resist capitalism
+however, now anarchism has to answer the question of "how do we pay for the revolution". if there will be no force in the revolution, it has to entice people to its cause with things such as a better society already forming. but if people can't participate in the "pockets of socialism/communism" and get compensated as capitalist Jobs are able to reproduce workers, then this particular concept of revolution never goes through
+
+
+
+
+purely volunteer projects may be a preview of the era of communism
+it is not yet stable over large areas
+socialism is much more stable for the near future
+thus the era of socialism should be constructed to stabilise isolated communism and allow it to eventually expand
+
+trotsky - he only got this one "right" because it came from simple observations of Russia rather than an actual prediction.
+he could have gotten it wrong if the pattern was going to change across the three eras rather than continue.
+- look at how he watched the Soviet Union pick up republics and then told the United States it was definitely going to pick up Canada and Mexico "like iron filings", or saw the soviets form and said that was a good idea for everywhere. he sees a pattern and projects the same exact pattern across everything.
+
+
+
+
+
+anarchy of production
+
+anarchy of production is the default even without capitalism
+so we must build Non- anarchy of production in order to have it, or we never will
+
+> maybe we really need to be saying something like "a planning system doesn't build itself"
+
+we don't need to search hard to remove /all/ competition of every kind from society,
+since A) that's probably impossible and B) it may be that some kinds are not actually harmful
+but we do need to look for the kinds of competition that represent an anarchy of production,
+or factions fighting with each other to control a particular role in society as with non-Marxist ideologies fighting Marxism.
+
+
+> that doesn't immediately attack the problem of proprietary hardware, but I feel sort of like the two things could merge into each other if we could just get people to _care_ and _want to build better things_
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# unsolved questions in "RD-ism"
+
+## what do we do with conservatives?
+
+
+
+
+
+
+
+
+## anxieties over proletarianisation
+
+once we understand the United States as an attempt to turn everyone into bourgeoisie and all careers into investments/"property", where fewer people than usual are "genuine" proletarians, all the dumb alarmism about Marxism makes a /little/ more sense.
+
+if people were truly proletarianised, many concepts they interact with in their daily life would be entirely different.
+- no defining aspirations in terms of private property, as with microbourgeoisie building YouTube channels or petty bourgeoisie "turning a hobby into a corporation", or even left-wing theorists unknowingly aspiring to "outcompete" other theories like Marxism-Leninism
+- no defining societal success in terms of one individual's private property or success
+- individual survival plans such as "retirement" etc become less important or folded into social movements. currently people really have part of their attention eaten up by individual survival to where they forget collective survival is even an idea
+- no covering up economic failures with civil rights movements; no trying to reassure LGBT+ the only reason they can be homeless or fired is transphobia 'but we're totally looking out for you on transphobia'
+- in a sense there only /is/ one kind of proletarianisation, and it more resembles the Soviet Union than anything people in the United States usually tend to think of.
+
+thus you can almost understand people going "aaaa! Communism is Pol Pot and if we become proletarians we're all going to die".   [*p]
+the average worker's conception of "earning money" or "being productive" is incredibly bourgeois, and if you abolish the bourgeoisie, how would we earn what we need to live or produce anything???
+thus you really have to persuade them how being petty-/microbourgeoisie is /not/ better for anyone and it's better to become proletarian even if it seems scary at first
+
+I don't know what to tell them.
+like, there are all the points in here, but what do you do with somebody who's virtualised the rest of society into their mental model of a Bourgeois Production cycle and thinks human rights are the single most important thing but whoever constructed our Industries and Jobs gets to decide who has them simply because there's "no alternative" to that state of things?
+Rainbow Stalinism I guess. teach them that as long as there are LGBT rights and anti-racism there's no alternative to "state capitalism" because that's what provides individual success
+that feels so dishonest though. they should have to get a better mental model where the people who run the economy don't determine everybody's rights
+
+
+## justifying the human being **
+
+I have a lot of trouble just personally with the tension between existing in a "hyper-bourgeois" society and trying to argue individuals deserve life
+
+I feel better when I read about the Bolsheviks because for them the question was so simple. it was just, our society has fallen apart, do we all deserve to have a society to live in especially when the bourgeoisie still exist? of course, it's not like we deserve life less than the bourgeoisie.
+
+but in the United States it's not as clear "how people deserve life"
+
+- everybody's concept of how we obtain Life is so individual
+  A) philosophically, you obtain Life by shouting and competing with other ideologies or people
+  B) economically, you obtain Life by chance, you just kind of take what you can get
+
+- so what do you tell people who are depressed and don't want to live, who don't feel assertive.
+  - how do you get people to feel like they have the right to live when everyone exists in a society where Life is something we obtain so individually for such specific actions. it can feel like if you don't figure out the right set of steps to get Life you don't deserve it
+  - we often obtain Life at the expense of someone else. so it can feel like advocating for yourself is implicitly risking making other people's lives worse, if only by giving them an impossible request and annoying them
+  - this applies to people advocating for collective survival, for intersectionality, and for Marxism
+  - do you have the right to speak to a movement or do we let movements kick anybody out for any reason
+
+- if it's reasonable to say you don't have the right to believe Just Anything since it might sometimes be harmful, how can I justify being allowed to believe Marxism if people may think it's harmful.
+  - (although if you try very hard to have a factual understanding of history the inherent harms are unknown.)
+- how do I have the right to assert anything at anyone really, including about COVID, including /anything/, if they seem to not want to listen.
+  - it's clear to me anything called "American society" has already shredded apart because you cannot even tell people how to Not Die. we are /that much/ not in the same boat with each other. you almost feel bad trying to help COVID deniers with anything in their lives because what if they don't want that either
+
+- who has to prove themself to who? do we have to prove ourselves to movements to be accepted and convince others or do movements have to prove themselves to us? does a person have to prove themself to society or does society have to prove itself to us?
+  - this is not as simple as it seems, because if we entirely believe society must prove itself to us then it was okay for Trotsky to cause trouble instead of cooperate
+
+
+
+
+i don't know how to argue communists deserve life
+
+we have the freedom to speak any opinion without being suppressed by the government and then get murdered by a fellow citizen who doesn't think you have the right to Life
+
+
+
+
+
+
+
+
+
+
+
+
+=> https://www.marxists.org/archive/trotsky/1925/lenin/01b.htm  *vi. Lenin and the old _Iskra_ / part II (Trotsky 1925) ;
+=> https://fifthinternational.org/content/cwi-split-trotskyist-analysis  *cwi. The CWI split: a Trotskyist analysis ;
+=> https://en.wikipedia.org/wiki/Pol_pot  *p. Pol Pot ;
+=> https://en.wikipedia.org/wiki/Mesothelioma  *msto. Mesothelioma ;
+=> https://copypastatext.com/mesothelioma-ad/  *mad. Mesothelioma ad - copypastatext.com ;
+=> https://blog.nature.org/science/2016/05/02/surprising-lookcrow-family-life-cooperative-behavior-birds-corvids/  *cc. A Surprising Look at Crow Family Life ;
+;
+=> https://www.marxists.org/archive/fromm/works/1961/man/ch06.htm freedom
+=> https://www.youtube.com/watch?v=jds1xPi3KXM  Among Us, example of 'every service and even product quickly dies'
+;
+:: cr. 2022-10-24T00:49:52Z
+# proof_rd
+>> 8666572593 dupe

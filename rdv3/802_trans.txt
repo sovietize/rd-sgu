@@ -1,0 +1,161 @@
+# units of civilization
+
+
+base and superstructure:
+marx and engels tried to explain that contrary to previous models, ideologies, philosophies, and ideas of how to build governments and "democracy" were tied to material life.
+within this they actually explained the fine difference between "the economy" and "the material life experienced by individuals", and that it's a little more complicated than the economy simply generating culture and government. for one, civil society and government would interact with each other in a dialectic. for another, the class division in the underlying society would influence how the state would develop, reflecting the way there is not just one kind of individual but the working-class individual and the investor-class individual who would invariably be treated differently by the state no matter how much it tried to gloss over the distinction and treat all people as the same.
+
+"base and superstructure", which was only a guideline in the first place, is certainly outdated
+it has been used in deterministic, simplistic ways which can end up suggesting that focusing entirely on changing the economy to "later", "more developed" forms is already building an era of socialism and bringing its onset closer in time when that may not be true.
+
+
+by the time of Lenin the model had already started to change somewhat
+Lenin began to model the state as a kind of barrier to revolution which stops societal change just enough to allow people to safely exist
+one could imagine a thought experiment where all class distinctions could be worked out if states suddenly ceased to exist and class struggle just kept going constantly until classes were entirely gone, but at the cost of too much life and too much violence, the civilization maybe even ceasing to exist from all the collateral damage and refusals to constructively cooperate.
+thus Lenin identifies that the bourgeois state freezes civilization in a perpetual conflict between workers and investors to minimize violence, appearing to mediate between classes while not actually reconciling classes.
+he thought that the workers' state would displace the bourgeois order with itself - you would abolish capitalists and business empires and assign property to the workers' state as a temporary solution for how to keep it from individuals - and then it would freeze civilization in a conflict between proletarian rule and any relics of the old order until society could be "repaired" from the damage of these old problems, everyone would be a proletarian, and it would not be necessary to hold civilization frozen any more as much as allow individuals to take the agency and initiative to develop it further into its future forms.
+thus Lenin begins to lay out a transition from what the state looks like in monarchy and the Liberal republic to the day that The State - a formal one with "bodies of armed men" - will finally "wither away" leaving only a government that administers things.
+
+Lenin's interpretation of Base-To-Superstructure and The State surprised a lot of Marxists, to the point that a lot of them still want to reject Marxism-Leninism and claim only Marx was right.
+however, a lot of things he said were shown to be correct.
+it was entirely possible to establish a workers' state and displace the bourgeois order. it was possible to freeze civilization in a place where any remaining bourgeoisie had less power than workers. it was possible to begin repairing the damage of monarchy, theocracy, nationalism, and other oppressions. it was possible to get further than anarchists had previously gotten by having this workers' state that performed these functions.
+
+in a sense, Lenin was building up a model where the working classes construct civilization and then ultimately the workers also decide how to construct the accompanying state - they could decide to let it be built to reinforce the existing order, or they could decide to build a workers' state which would protect a new order as the new civilization formed.
+
+
+Lenin's model was fine in countries where it was enough to treat large areas as a single unit, like the regions of Russia or China
+one big region would be contested by the counterrevolutionaries and the Bolsheviks, or a warlord and the Chinese revolutionaries, and the Red Army would simply be able to win over the region
+
+however an issue with it has emerged in highly developed countries: as countries develop and capitalism develops, material civilization seems to fracture into smaller pieces.
+a US state, US city, or US household will increasingly start to act independently of everything else like its people believe no other thing is connected to it or affects it. it will claim to be self-sufficient on paper according to money numbers, though in reality it is highly dependent on global supply chains and wide networks of corporate planning structures to ensure it has what it needs to survive. it may be getting all its supplies from another US state or another country but think nothing needs to improve anywhere because some numbers lined up.
+and ultimately many countries end up with people like this as they develop more industry, including emigrants from the later Soviet Union who came to see US business empires as the future, and Liberals in China.
+
+US individuals are not truly self-made or self-sufficient, but they come to believe they are, even as all the social systems that support their existence are very precarious. how does this happen?
+
+
+
+
+
+
+
+physics got only so far with classical physics, which went down to the atom
+then it had to break things up into their smallest measurable scales to fully understand some of the more subtle emergent properties of the universe
+we may need a "quantum physics" for Marxism
+
+
+
+
+in the "debate" about trans rights,
+conservatives allege that "Free Speech" is being violated if they can't bring transphobia to
+- a social media newsfeed (not government, civil society)
+- a publisher (a business selling a product, civil society)
+- a university (not government positions, at most the whole operation is funded by government, civil society)
+
+in each case the "censorship" is not being carried out by The State but entirely by private organizations outside The State operating according to their internal rules and social structure.
+
+in a sense, one could say the "censorship" is very anarchist. it doesn't really require The State in order to happen; even if in some cases it may make use of anti-discrimination laws, those could all be removed and it could still build back up to happening just as much and just as often.
+
+however, the United States constitution was created with the assumption that meaningful restrictions on the rights it enumerated could only happen by The State.
+congress will make no law abridging the press - first amendment, reminds us all legislatures are part of The State
+Miranda rights - deemed to be protected by the fifth amendment, acknowledge police as a part of The State and subject to the Bill of Rights
+fourteenth amendment - acknowledges individual US states as part of The State and forbids states from suddenly taking away US citizenship or taking executive actions to limit people's rights without making laws
+
+
+the "debate" over trans rights is really an argument about units of civilization
+
+the united states claims it is made of a federal government and state governments and freedoms - a weird top-down vision of the united states
+but really US civilization is continuously regenerated at the level of the individual. arrangements of individuals create civilization and create the conditions people experience daily
+
+
+civilization begins with the "Job Search"
+each individual is asked to find a "Job Opening" in order to generate goods and services
+ideally this "Job Position" generates enough revenue for the individual to buy what they need to survive from other "Job Positions" - though sometimes a "Job Position" does not even get enough revenue much less a living wage paid to the worker by the boss
+
+the goal of "Job Positions" is to build civilization - to build Industries and grow the economy to support more people.
+(this is more consumers, more daily human existences; this is not more /workers/. this will become important later.)
+sometimes people in one "Job Position" are able to climb up to a higher position in an Industry, or maybe are tasked with creating new kinds of automation which other Job Positions will have to learn how to use within the bigger and more complex Industries that will come to exist which have scaled up to a lot more people. at one time somebody had to set up a company's website and web server, now somebody has to work on gigantic computer networks that run huge "social media" monopolies like Twitter, or create the complicated "cloud computing instance" software that runs just one of the components in the system.
+
+in any case each worker is born and then commanded to generate a new chunk of civilization in order to deserve to exist. this is what a corporation /does/ - it generates pieces of civilization such as railroads, fossil fuels, housing, agriculture, furniture, internet, "record labels", and newsfeeds. large portions of the goods and services we interact with in our daily life are initially generated by corporations, but also form the material basis of civilization.
+
+this leads to a pervasive false idea that - because this is how most people's daily experience actually appears - civilization /is/ nothing more than items the worker buys.
+if the worker can buy all the things they currently want, then they are thought to "have civilization" by having a corporation to work for and pay them, and having some kind of at-least-barely-acceptable access to material life and social connections. the worker /exists atop/ the corporation. (and atop any support by other members of the family or household.) the Job Position is thought of as the unit of civilization.
+
+but this is a dangerous and costly mistake.
+eventually the economy has filled up with just about every possible good and service most people want, and it is no longer possible for people to invent truly new things or even generate new chunks of Industry versus compete over the Job Positions and bits of Industry that already exist.
+the fiction that everybody can pay for themself with a Job Position breaks down because people are increasing but only so many Job Positions are required to run the large-scale Industries of late capitalism. Job Positions may still be increasing at some rate because the new people will still require things like food and houses which need some non-negotiable amount of space or energy to create. but many things they need may already be covered by automation and mass production and not require more Jobs, at least without reducing profits to "unacceptable" levels.
+
+
+
+
+
+
+
+
+conservatives are mad that the united states is not actually a bunch of disconnected individuals or shops selling things to each other in a self-regulating Market process but in fact the united states contains units of civilization and social relationships which only use "the market" as their tool in order to interact and survive
+
+
+
+
+
+
+
+in the past it was said that capitalism builds up and as this happens the bourgeois state protects Liberal and neoliberal ideology in a sense
+I think that's overcomplicating things.
+the bourgeois state does in fact protect the private property of corporations and capitalists but we may as well just throw out the "ideology" part because the material pieces of bourgeois civilization matter much more.
+
+police oppression emerges from civilization.
+an individual working-class person has relationships to people around them, which may be antagonistic or cooperative
+if the surrounding people protect you you're safe, and the law may formally protect you as well
+if the surrounding people hate you you're not safe, and the law and police may be against you because they serve a different chunk of civilization than your chunk and the chunks are essentially at war.
+if the surrounding society has waged war on you and deemed you part of a different chunk the police and laws will be its army - let alone whatever informal "militias" or illegal murderers it has.
+
+in this sense "patriotism" is a meaningless concept in the 2020s United States because it was designed for very large groups of people such as nation-states or large parties opposing those nation-states
+but in the current era civilization is fracturing into small chunks and we can only speak of "patriotism" to a given chunk of civilization, or opposition to that chunk.
+are you patriotic to a big trade union? are you patriotic to a communist party? are you patriotic to local Liberal parties and institutions? this determines what chunk of material civilization people are part of and whether that chunk desires to protect their life and is able to protect their life.
+
+
+there are some really important implications to the chunk model:
+the more chunks that are successfully built and link up, the more resilient the overall structure is against outside opposing chunks
+the "chunk" is like a unit of revolution. if a chunk is functioning sufficiently well, we must not dismantle it and instead seek to build and accumulate more chunks. - of course there is then the challenge of figuring out whether the chunk is functioning or dysfunctional.
+
+
+
+
+Communism must build civilization /faster/ than Liberalism can build civilization in opposition to us
+if we accomplish this task we own civilization. for at least a while, it can't go back.
+
+there is no need for the ideas of "retroversive effects" - where a revolution takes over and old ideas are gradually erased as people see the new way is better -
+or even of "hegemony" and "ideology" as much as people think.
+I think it's all material and structural. I think it's mostly about which human beings own what or control what and are connected to which people, not about the ideology people have.
+
+
+
+
+
+
+
+
+
+
+Error of Liberal Homogenization
+
+this is when you forget the component parts of an entity such as a US state and think that working with the whole thing as a unit will gain you - the person or group pushing for working with the whole thing - /all/ its chunks to the point you are safely nested inside a group of unified chunks which are all won to your side. specifically at a time when in reality there is not good evidence to believe that.
+everybody pushing for "vote vote vote" as their only strategy is guilty of this error.
+
+but Trotsky was also guilty of it on the scale of whole countries, by thinking without good evidence that you could count on a whole country to flip over and aid the Soviet Union. this is the crux of the "socialism in one country" issue - if Trotsky was counting on a big entity to be homogeneous enough to simply contribute to a kind of "world vote for Communism", when he should instead be thinking small enough to see all the confounding factors inside the big entity and think with nuance about whether they can be overcome in each area, he is not using good reasoning. and if his reasoning for why "you can't have socialism in one country, you're supposed to do this instead" is bad, then the argument is simply moot. it's on whatever chunks of Communism that exist close enough to each other or tightly-linked enough to band together, not about considering some hypothetical of if we imagine countries could act as chunks regardless of whether the scenario is actually feasible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+=> https://en.wikipedia.org/wiki/Fourteenth_Amendment_to_the_United_States_Constitution  n. Fourteenth Amendment to the United States Constitution ;
+;
+; cr. 1671493816

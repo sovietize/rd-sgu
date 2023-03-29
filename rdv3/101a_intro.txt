@@ -1,0 +1,510 @@
+# 'RDism' draft 3
+
+
+capitalism is about territories
+because class society has always been about territories
+national territory, slave territory, neocolonial economic territory
+a problem remains in working out how territory problems can be resolved when dismantling class society and building a new civilization
+
+
+
+## 'the story so far'
+[<< 8670290049 history]
+
+what is Marxism?
+
+Marx tries to figure out where capitalism came from, came up with a reasonable history
+economy begins dying while Marx is alive
+collapses of WWI
+Bolsheviks rebuild russia   [*tc8]
+germany collapses further and becomes Nazi Germany
+First - Second - Third - "Fourth"
+Trotsky comes up with a crazy idea you can stop Nazi Germany from inside. it doesn't work
+axis powers thwacked with military force to end fascism
+postmodern period - "the victors" of history redefine the goal as stopping fascism rather than stopping societal collapse and improving society, so Nazism and Bolshevism are thrown in the same bin because Bolshevism tried to do something other than Stop Fascism and Stop Fascism is the only correct action
+fascism is back
+now we have Marxism and a bunch of other unrelated ideologies starting from completely different places, and we had better find the right ideas quickly
+
+
+
+## imperialism and the Industry Blob
+
+s-curve Marxism, competitive phase
+
+hsc Lenin
+industry blob
+as smaller bourgeoisie and corporations get ruined the big businesses coagulate into one Industry Blob
+and all innovation happens in the blob, smaller competitors don't get to innovate and it's all secret google research papers where details are kept secret "so the tech won't be misused" (however the research is still done for some reason)
+[edit: recently at a few places like openAI, the "abusable tech" was actually released. nonetheless there is still a business model of expecting that people will always come back to one centralized company because it's infeasible for a lot of people to run or access the program individually versus centrally hosted]
+
+Lenin describes the first messy competition happening between imperial powers
+the world 'was already divided up but they will try to divide it up again'
+
+now we are in an age where our economy and political system is already divided up but US Liberals insist on trying to divide it up again.
+
+the implications of this analogy are still not entirely clear
+but, there is something very special about this phase of capitalism and how it seems to be all about /competition over things that are already finished or filled/.
+it seems like competition is a bigger part of Marxist economic history than we would like to believe. Lenin made a breakthrough by noticing that empires exploiting their periphery and in a sense competing in occupied territory was an important part of building capitalism
+now we must consider that the internal competition inside the imperial core may be very important for figuring out the true "third chapter" of Marxism which goes past building up industries and corporations and begins transitioning /completed/ industries to something new
+
+
+
+## a spatial history
+[=> 1670308052 empire]
+
+It appears that in the course of analyzing different kinds of class society and trying to dissect capitalism, Marx made a subtle but important error.
+This error was at least mostly corrected by the time of Lenin and the Third International, who had to face the consequences of the error. But some theorists following off Western Marxism, dialectical anarchism, and similar traditions that reject Bolshevism continue to repeat and magnify Marx's error.
+
+
+
+
+
+## labor bourgeoisie
+
+current capitalism may actually be a contradiction of All Against All
+you wouldn't have noticed this in earlier time periods where there were so distinctly particular groups of bourgeoisie and groups of proletarians vying for particular interests
+but capitalism has taken on a different quality now
+we now see a pattern where first there's proletarianization, people are kicked out of the business classes of big or petty bourgeoisie, but then there's a second phenomenon where people are kicked out of the proletariat by corporations being stingy with jobs, and have to go "start their own businesses" or start a Patreon or generally do some kind of activity that involves them founding a new workplace and not working as a proletarian in the usual sense of being employed by an employer
+
+this is hard to understand with traditional Marxist models, which would not predict that people get kicked out of the proletariat and become the bourgeoisie again
+however, using a spatial model where we take into account where everything is located, it's clear that this happens because within capitalism everybody has to exist inside some kind of social structure to have a job, usually a corporation or "small business" operation, so when a bunch of people are kicked out of one set of corporate structures, a new wave of structures will spring up and people will end up there
+
+in effect, capitalism creates industrial civilization by building Industries, then very slowly destroys it through competition and exclusivity, leaving people to begin industrial civilization all over again by creating new clusters of Industry. the new petty bourgeoisie begin the process of civilization-building over again because it failed to "complete" itself the first time.
+
+the bourgeoisie and the proletariat have been blurred
+because industrial civilization has become unstable, people are forced to take on the roles of both founders of Industry and regular workers just to keep civilization going.
+but also, with everybody being forced into this founder role, there is an increasing competition between every individual and every other individual, at least for everybody who exists outside the Industry Blob.
+not everybody can do the same particular role in rebuilding civilization, but we all compete for these roles. thus "independent" projects which are going to outdo Capitalism Proper compete for the same role, and even workers' movements compete against each other for the same roles in "uniting workers" if they won't unify with each other.
+
+there is an illusory contradiction between the Industry Blob and "independent businesses"
+a lot of center- and right-wing people falsely believe that the Industry Blob is an anomaly not inherent to capitalism — although actually it /is/ inherent — and that people can simply smash the Blob and create a bunch of small businesses to make capitalism "fairer".
+neo-nazis and Libertarians hold this as a major point in the "techno-feudalism" conspiracy theory that characterizes the Industry Blob as an evil conspiracy created by "organized crime" or "corrupt Elites", while center-Liberals will suggest that co-ops are a form of resistance against capitalism, that social democracy can somehow take capitalists out of politics without ending capitalism itself, etc. even some sections of US anarchists are very confused and have come to believe any resistance against centralization or "industry" or "government" is good resistance, despite the fact that this can end up creating a totally disorganized movement that overlaps with right-wing conspiracy theories.
+
+while it's not fair to say "independent businesses" compete against the Industry Blob, it IS fair to say individual workers do. if workers could all unite against the Industry Blob *and* "independent businesses" at once, this could be the way to end capitalism and escape the cycle of rebuilding Industry over and over.
+
+the problem is that I think we need to figure out the proper attitude for everyone to have toward the Industry Blob and its future role in society if we want this to be effective, or perhaps to happen at all.
+
+
+
+[<< 8670379793 defeat]
+if we were to end the conflict of large business empires versus each other, perhaps we might imagine for a moment that we turned them into something like the ministries of the Soviet Union,
+the contradiction of All vs All among the workers would stil remain. workers would still be competing against each other to get slots in the nationalized industries, which could regenerate racism, queerphobia, xenophobia, anti-humanities attitudes, and other prejudices.
+
+this means that fundamentally the conflict between individual workers has to be solved if we want to prevent the country from building fascism or genocide.
+this is an open question that almost no existing political theory has actually solved.
+the Liberal idea of democracy certainly does not solve it, as it ultimately creates top-down control of a voting bloc by bourgeois party officials and the imperative for each voter of "the right way" to compete with every voter who hasn't come to the correct positions - in order to "change society using reason", the center-Liberal must defeat the other voters to add them to a voting empire, and hope the voting empire upholds the demands of any of the people it claimed in order to increase its power.
+equally, existing Marxist-Leninist workers' states have not necessarily solved this problem. a kind of "Stalinist Liberalism" sometimes emerges where people confident in the communist party's vision try to defeat people of other ideologies and either win them over or get them to "shut up" and stop promoting their wrong opinions. this may be a simple everyday struggle between two individuals without greater harm, or may also connect itself to the way the state and law treat people of other ideologies, singling them out as inadequate citizens of the communist country.
+
+it seems like while it is important for the working class to overtake capitalists and remove their control over society, and to remove the most visible unnecessary competition between big businesses, the final step in ending Liberal capitalism - most specifically the "Liberal" part - is to get individuals to cooperate on common goals rather than to defeat each other in service of their own aims.
+this question will remain open until it is solved, but it will definitely include both economic and political or philosophical aspects.
+
+
+
+
+## Trotsky.
+
+not sure marx knew nazism was even coming
+if he predicted that there would be resistance to capitalism in the first world.... did he accidentally predict nazism?
+
+trotsky was forced to know there was fascism because it was right in front of him at that time
+but did he actually copy marx's error of not understanding how resistance in the imperial core can be nazism
+
+
+[this needs research but it's important]
+
+
+
+
+
+
+
+
+## software and app store monopolies
+
+
+good computers are a casualty of capitalism
+we have to agitate for the right to modify and refurbish computers, recycling them is not realistic at this time
+
+
+the most promising computer was made in close communication with a factory in china
+but outside china's industry blob
+it couldn't be shipped within china because it was not certified
+so perhaps to overcome apple et al and create some kind of okay computer everybody can actually have the chance to use you've gotta get into china's industry blob
+perhaps we have to start in the Industry Blob of one country and turn the blob international?? such that the 'new phone' could conceivably overtake other multinational globs of computer industry like Apple.
+
+
+linux-based operating systems expose the fact that "take it or leave it" is not actually cooperation. it does not produce a dialogue between two producers or a larger social structure which can consistently plan which things are needed and what people need to provide to other people.
+
+
+
+"commodity fetishism" is putting the blame in the wrong place
+increasingly the real problem is a "non-cooperation" of commodities such that whenever something is unsatisfactory, including if it should be compatible with something else and it isn't or it should have a bit more functionality than it does, we simply produce further self-contained Finished Products to compete with and trash our previous two products. put simply, if the wheel doesn't fit the car, we reinvent the wheel AND reinvent the car.
+it is not really that people attach magical properties to new computers as much as that they find their previous devices were terribly designed for the future, and have no choice when a device proves inadequate in the future but to hope capitalism will produce a better separate device they can buy. that they can solve the problem by delegating the task to another self-contained corporation and self-contained product, when really that task might be something that should be solvable by upgrading existing products.
+
+"commodity fetishism" is really more like "delegation fetishism"
+we know everything has to be delegated according to the rules so we hope delegation will in fact solve our problems. but by now physical products abstract away the act of delegation. we don't have to delegate laundry to a laundry service, we delegate it to a washing machine. but if we really wanted the washing machine to do something it doesn't do, we must delegate it to another machine produced by another group of people, unless corporations make the decision for us to connect those two groups of people through some kind of buyout or agreement.
+
+
+
+
+
+
+
+## slot model
+
+society seems to have become like a collection of slots we compete for in which we can contribute to society in some very specific way
+most of them are called jobs but a few are called political offices
+
+
+
+## non-cooperation becomes war
+
+> "democracy" (in the Liberal sense) and "cooperation toward a goal" are different things, and we really need cooperation between different groups of people instead of separate people separately doing things, which very easily becomes competitive simply because you can't coordinate your activities and have to reduplicate effort, which turns into competition over the same task
+
+
+[=> 1670288126 force]
+Liberal Stalinism or Stalinist Liberalism - the overlap between communist thought and Liberalism, where it is believed that strongly asserting a correct point while conceding nothing is the same as "using reason to solve conflicts".
+this is not using reason. this is using force. and we see this best demonstrated with vaccine hesitancy. people need to get these vaccines to survive, essentially they must come to an agreement with others in order to survive, but they don't want to. then the center-Liberal or science-minded side asserts that they should submit to the correct position or die. it is natural processes carrying out these deaths rather than an executioner, but there is still a problem because this policy is resulting in virus transmission the whole time society will not truly come to an agreement to stop transmission and hinges the whole thing on pressuring the people who refuse to reason to accept a certain thing or die.
+
+people want to call the 1930s? famine in Ukraine inappropriate labels like "a genocide"
+but this is much closer to the category of things it belongs in. Stalin's government asserted that people should cooperate with the plan to build collective farms. when people did not cooperate the society let them die. then Stalin's government says to the people who cooperated, you should feel good about having the correct position, you shouldn't feel bad other people died because we're the correct ones. in this way natural processes killed the uncooperative people, but leaving people to die if they did not accept a particular position was a form of force.
+
+trotsky admits that the initial effort to rebuild the economy contained small versions of this kind of force simply because there was no other way to compensate people for work and give them a normal job than to create a temporary "unfree market" where people would be assigned specific tasks so there was a minimum amount of economic activity for everyone to exchange, rather than everyone having to haphazardly figure out how to rebuild their own individual lives and build what they needed to survive while people were already suffering.
+this seems like the only sensible way to have solved the problem.
+but, in the wake of later events like the famine in Ukraine, people went digging through earlier history to try to prove the Bolsheviks' earlier approaches were everything they knew and led directly into later disasters. in light of the way the United States interpreted the Soviet Union, it seems that we should think more deeply about whether our own approaches to getting reactionaries to cooperate with social goals are flawed and could have "scaling problems" that result in mass disasters.
+
+this is a very inconvenient thing for communists to have to accept because it means every past workers' state has to be thoroughly examined for the smallest mistakes.
+however, if we are able to master the idea that cooperation is a back-and-forth dialectical activity and does not include out-arguing people if we do not want it to turn into force, we may finally be able to take over the field of "changing society with reason" and end the pervasive problem of Liberals (and Dengists) trying to act like out-arguing individuals with confrontational debates / "the neosubject" / efforts to herd different groups of people with different demands who require entirely different messaging onto one giant voting bloc just to win / a general attitude of superiority is equal to using reason and can never be force.
+
+
+
+
+## a class-blind struggle?
+[<< 8669447257 elon]
+
+it is unclear if extending current ideas of democracy to high-ranking jobs (CEO etc) is sufficient to end this struggle
+(although this refers more to /starting with concepts of democracy the people of the United States would already understand/, and less to discounting soviet democracy)
+we seem to be in a confusing time where people are squabbling over every job and every role in society to determine what models of reality and codes of ethics everyone gets to have within the society and what direction the whole society will take - a contest which can't really be regulated by a constitution or existing democratic ideas. a contest over laws, constitutions, government forms, who is considered a citizen or voter and who is an enemy of the country, but bizarrely not very often the shape of industry.
+
+what is the good outcome of this?
+it would seem absurd to try to suggest that democracy should be fractalized down through every individual somehow and the responsibility to find the perfect compromise between nazism and civil rights handed to every job position and every person who interacts with another person.
+
+however, this is what the struggle looks like. it's eveyrwhere at every tier of things at once, blind to class, with capitalists having their struggle to buy a particular company to advance particular values and workers haing their own struggles to win a particular swath of youtube before the nazis get it or get into a particular job position without being denied it by the people already at the company or losing it to some nastier person.
+this is confusing to navigate.
+
+
+
+
+## understanding identity politics
+
+identity politics arise from the competition between individual workers to fill roles in society
+
+confusingly, there appear to be some /correct/ ideas within the US identity politics struggle, though they are hard to untangle from the errors in its core concepts of society and the economy. (for example, that some theory entirely based on race or nationality could replace Marxism, that some particular bigotry is the only source of all corresponding hate crimes and capitalism would be perfect if we just educated people against that prejudice, etc.)
+there may be something to the general idea of struggling across civil society for human rights until they have been codified at the national level. the notion you see advanced by conservatives that there has to be some kind of constitutional amendment to then start talking about LGBT rights is highly archaic and not in line with the way a conversation and a movement to "change the constitution" flows in real life.
+
+the problem with identity politics is that it will never expand the total number of slots.
+there will always be the same number of slots available, and eventually people are going to get angry and become nazis because they're upset they didn't get a slot and if they pick some group of people they deem "lesser" to try to eliminate, they can attempt to free up slots for themselves.
+if we become content with the idea there are always going to be a particular number of slots, there's no good argument left against the nazis, who are /technically/ correct that killing people would free up slots even if it's one of the most objectively unethical results of the system. they're also /technically/ correct when they try to argue that "any day now" there will imminently be a "Stalinist purge" to remove nazis, because even if it could not reasonably be called that, it's a part of the system that nazis are being deliberately kicked out of slots for bad behavior and the system is using punishment of its enemies to cover up a problem in the system.
+these arguments are still /bad arguments/, but it's hard to avoid them eventually coming up when they're both based on a real problem that Liberalism leaves unaddressed.
+
+
+
+## User Democracy
+[=> 1670276832 user]
+
+if you go looking through "social media" platforms such as YouTube to study public sentiment,
+you'll actually see a lot of vaguely promising things.
+
+1. people talk a whole lot about how bad products such as videogames or TV shows were /specifically/ because of bad corporate decisions, as well as how they would manage the corporation better — sometimes by moving a corporation over to another larger corporation, or adding a smaller partner or subsidiary onto it
+
+2. a wide range of people are really fed up with capitalists attempting to change society without having to go through Liberal democracy, even through "more benign" methods like starting charitable foundations. it seems almost everyone is getting incredibly fed up with there even being Big Business at the scale there is.
+
+these things suggest an unexpected conclusion - people want capitalism to fall under democracy, but they want it to be a democracy for /users/ of corporate services, much like voters don't actually work for the particular branch of the US government they're voting for but they get to vote anyway.
+when you think about it, worker democracy is actually a strange idea on its own - if the workers serve the people who will use the products or services, shouldn't those users actually be involved in decisions about how to manage the corporation for users' needs rather than profit? if the workers or some kind of central planning system makes the wrong decisions because somebody other than the users made a decision and the users didn't agree, the public may eventually get upset at the system because it didn't do its fundamental job of creating an economy to meet the users' needs.
+
+although this is an unusual suggestion, I posit that to get people to organize for anticapitalism we should listen to people's complaints about /goods and services/ and how capitalism never seems to deliver them well, yet we would need to create User Democracy to change any of the things people complain about.
+you can convince the people of the United States that any labor movement or action should be illegal based on war and the supposed infringement onto negative freedoms by Evil Muslim Or Communist Countries.
+but it's simply impossible to deny the reality of bad products and /tens of millions of people/ talking about each bad product from a particularly big business.
+
+further, a lot of people are concerned about developments in AI displacing jobs. cutting-edge AI models can now generate whole videos from a text prompt, making people ask if this will simply make a lot of creative jobs such as "animator", "illustrator" or "concept artist", and  obsolete.
+realistically, some of the most prestigious jobs in the Art Industries relating to polishing up products to be truly presentable would remain, including story writers (provided they can come up with truly creative ideas or have exceptional writing style) and art directors (who basically create the initial seed material an AI would use). but these human jobs might become highly competitive to the point everybody simply accepted that humans hardly ever get creative jobs and generally AIs make capitalist pop culture and you work for some other Industry to pay for it.
+at this point consumers would almost be forced to create a User Democracy simply for artists to continue their craft of being artists for a public audience, and consumers in general to have any input on what the AI is creating. if consumers never invented User Democracy, we can make a guess from the previous patterns of capitalism that the system would evolve into corporations tweaking AIs to create things that adjust consumers' own preferences so that they collectively buy more things from the same corporations rather than using AIs to better fulfill what consumers want or need. perhaps we could imagine AIs are asked to deliberately produce sparse and "vapid" content so people will search for better movies and not find them, or maybe a more ethical producer would ask the AI to put unanswered questions in everything so people buy the next installment.
+
+one of the most troubling implications of this is that a country's minorities could not "go into the industry to have their voices represented". the corporation could simply train an AI to produce "inclusive" content without having to employ the people groups it represents. and then, for instance, US black people or transgender people would have to explain to everyone over and over that the most important issue is that they have trouble getting into jobs and supporting themselves in real life, not whether some piece of pop culture appears inclusive.
+
+
+
+
+## structure of US civilization
+
+people think of US civilization one way as simply some overhead view of a neighborhood or a town with people that live in some houses
+
+here is the actual structure of US civilization
+
+human baby is born, typically to a family
+a family is a mere incubation structure to transfer a human being to their true family
+each human exists inside some corporation or organization that grants them existence
+you're seen as terribly impractical if you haven't found your corporation yet, why that's where human beings live, you're going to die
+
+all the things we need to live are mostly produced by corporations
+as people demand better things, we build more elaborate corporations and combinations of corporate structures
+in a sense corporations /are/ civilization, they are the government that builds and maintains every part of civilization we actually use, sometimes everyday items we use in our "democratic" governments
+
+this idea can't be understated
+for other countries capitalism is just a necessary evil that supports civilization, but for the United States it really /is/ human civilization, you take it away and there is basically nothing left
+
+that's why I think we need to really focus in on what appears to be people getting upset that capitalism and capitalists are unaccountable and that they "aren't within democracy".
+it seems that not only is there nothing to the United States but capitalism, but it now genuinely wants to turn that capitalism into democracy.
+
+
+> in the United States, this amounts to feeding nazism because currently the top reason people want to take away specific federal powers is to take away human rights.
+you can see this substantiated when corporations try to claim you get good treatment of LGBT workers or abortion access /specifically within their corporation/ as such rights are being revoked at the state and federal level. the push for "states' rights" is slowly transforming into corporate rights, where each big corporation gets to decide what rights to grant the human beings that live on it.
+
+
+
+## necessary labor vs surplus labor.... vs competitive labor
+
+Marx began the criticism of class society by visualizing working time as a portion necessary to live and a portion that some slaveholder, manor lord, or capitalist demands from somebody — necessary labor and surplus labor.   [*nsc]
+by now, this seems like an inadequate model of what kinds of labor exist in capitalism.
+
+when capitalism is well-established there appears to be a /second/ kind of unnecessary labor.
+this is labor carried out to outcompete other workers in order to obtain a Job Slot. it may include doing Job Interviews, writing résumés, going through certification programs, reading a bunch of things about "why can't I get an entry-level job??", and various other tasks that don't seem to be tied to actual qualifications as much as incredible patience and the amount of time required to find a Job Slot with the fewest number of candidates competing for it.
+many people complain that the Job Hunting process seems to have its own set of rules unrelated to the actual skills required to do a job and seems to require you to do special performances designed purely for it, while also noting that the qualifications recommended to get a job seem to inflate each year until no preparation you go through seems to make you more likely to get a job than others, except knowing one of the people who already has an important position there.
+this sounds a lot less like a reasonable economy where everyone is getting more educated and qualified than an arms race between proletarians to snatch a Job Slot away from other proletarians.
+
+in addition it also seems like businesses carry out competitive labor, by insisting on creating novel or cutting-edge products when the things they make are already adequate.
+
+the simple idea that businesses are carrying out competitive labor changes the calculation of what kinds of labor the worker is doing.
+one portion of the worker's labor would be necessary labor, one might be surplus labor, but one would be competitive labor to ensure the business sells a product to consumers and the worker gets paid at all.
+but this competitive labor is paradoxical. if the worker does it, it could make everybody's life worse by creating waste such as unnecessary new computers, exclusive proprietary software only corporations can afford, or rushed products that need more care to be properly finished and valuable but need to come out on a tight timetable. but if it isn't done, it might not be possible to pay the worker and they might lose their job.
+when competitive labor is the most successful, it puts other companies out of business and /other/ workers out of a job, unless the company that succeeds at competitive labor buys the other company or otherwise comes into control of its workers for some particular job.
+
+overlooking the idea of competitive labor may be how Marx missed the full importance of imperialism to capitalism. (although he was fully aware of the need to liberate colonies like Ireland, so he was aware of imperialism itself.)
+part of the duty of a corporation and its workers is to continuously conquer a particular social role and remove others from that role for the benefit of the corporation and perhaps even the workers.
+
+
+
+## teach everyone Marxism
+
+I think that we need to teach everyone some basics of Marxism in order to even get a labor movement
+
+this, frankly, may sound a little crazy
+but the scope of errors that people make in the United States is both so broadly spread across the country and deep in terms of the actual errors made that it seems to me we can only reverse the problem of Non-Materialism by teaching people actual Materialist views of reality — which includes drilling into them the actual nature of capitalism, the errors of past "Socialisms", and what general kinds of things have stood the test of time.
+
+the Marxist principles we would teach people should be general enough that people can "customize" them to any specialized sects that will turn up in the future
+
+
+this should not be confused with "substitutionism" — a term coined by Trotsky for when a communist party tries to outright start or lead a movement instead of properly handing that task to the working masses.
+(ironically, modern Trotskyist parties seem to be some of the most guilty of substitutionism through putting too much emphasis on having the perfect party or seed of a new International.)
+
+no, this strategy would look something a bit more like creating a Marxist /union/ where people self-organize around a correct understanding of capitalism so that when it comes time to build a party there are not five different wrong understandings of capitalism all fighting each other and the Marxist party left with no idea what to do and what people to try to lead.
+I am not actually suggesting "Marxist trade union" as the exact or specific way to accomplish this task, but the idea is that we /somehow/ genuinely need to get the masses to understand and propagate Marxism themselves.
+a whole lot of rhetoric about resisting capitalism is going around already, so if we don't make sure people have the /correct/ model of resisting capitalism and what the result looks like, we could get a reactionary labor movement or simply one that is terribly uncoordinated with any other organizations such as a communist party. if we have the "wrong" labor movement dividing workers from each other, we cannot unite workers.
+
+
+there has been an interesting trend in about the past decade of a few Trotskyist groups hiding behind the term "revolutionary socialist" actually doing this
+--why are there two different things about trotskyism here. rewrite this--
+
+
+
+## reverse class collaboration
+[<< 8669963164 rcc]
+
+it took me a long time to come up with a phrase to describe this
+
+people really think that helping themselves first /is a meaningful form of struggle/
+it is not a bad or unacceptable thing to help yourself first, but I would say it doesn't have much relation to proletarian struggle.
+
+
+* I have seen staunch center-Liberals dedicated to this, that if they climb up in capitalism and make money and vote for the Democratic Party and donate to charities, they can solve social problems by having a privileged position and giving some random black or trans person money.
+however, if you listen to anti-racist activists, they want oppressed groups to have a chance to climb up through the economy like anyone else, not some white person claiming the position first and calling it activism.
+this exposes a contradiction of capitalism that in order to help oppressed groups we basically have to give up our role in the economy and let the oppressed group /do that societal role/ to receive an income and economic connections, though under capitalism this also takes away our ability to do much activism to raise more of these people up. here we see that we all compete for /societal roles/, and if we really want to help oppressed groups the "slotted"/"all vs all" nature of capitalism simply has to go in order to not create oppressed groups.
+
+* Richard Wolff — labelled by some as a syndicalist and some an anarchist — always advances co-ops as the successor to corporations and the 'real' hallmark of socialism. however, he has attracted a lot of right-wing conspiracy theorists who believe "techno-feudalist"/"corporatist" capitalism is bad but capitalism is good. before Wolff, Richard Owen (?) attempted to use his capitalist position to build workers' communes, and ran into resistance from other capitalists in the area who didn't want this.
+
+* one YouTube creator I followed started out talking about Marx's work and various Marxist or anarchist sounding themes, and then went down a path of 'merely trying to get stable first', and ultimately ended up championing /political Lacanianism/ as a replacement for Marxism, as well as denouncing all actually-existing political movements because they weren't "universal enough". they started at Marx and went all the way to "anti-racism is technically racist for believing in race".
+
+* YouTube creators in general have a pattern of getting into some prestigious job like law or medicine or simply the top bracket of Youtube creators and making some kind of progressive YouTube channel with high production values where they claim to be "doing their part". many are Liberals, and have drawn criticism from communist channels because "you just handed that Liberal creator a $50 bill when all he does is tell people to vote for the Democrats". but there are even a few communist channels like this, which, while some of the more informative channels on the platform, have been brought into question on whether they are creating a useful or inclusive movement, or simply running an isolated business.
+
+* there is an entire right-wing fake communist movement that wrongly interpreted statements by Stalin and third-worldist writers as meaning that all war against empires was good. following this train of logic, one could come to think that if you move from the US to China or from the US to Russia or from the US to Iran it's all the same because any war against the US is good, and supposedly must happen as a first step to building socialism anywhere. the obvious problem with this movement is that there is less than nothing stopping it from becoming fascism and fighting a war of xenophobia against other countries, and it has basically aligned itself with Russian nazis. here, helping yourself first has turned into fascism and international war.
+
+
+now I've come to feel like this error is best called reverse class collaboration
+in class collaboration, workers ally with the upper classes and trust them to support the labor movement rather than hinder it
+in reverse class collaboration, upper classes come to believe they have the ability to help workers through the normal mechanisms of capitalism even if these methods don't really give workers more control and may amount to the reverse class collaborator deciding things about material life and yet hardly improving it ('here, have a co-op, not much will actually change but you have to work harder and also listen to me').
+
+the worst thing is that /workers/ can be guilty of reverse class collaboration. refer to the two examples about the average Liberal and the Lacanian, and you'll see that both these people were broad-sense proletarians that fell into a trap of thinking that if they work hard in capitalism and stay afloat they can /get ahead/ enough to help others.
+however, the slot model shows us otherwise, that in capitalism jobs themselves are gained at somebody else's expense and classes are created as people outcompete other people for the higher-grade slots. to "play the game" of capitalism is to reproduce the game, because the rules of capitalism recreate capitalism and classes.
+
+but, to be honest, I'm not sure this is actually a fatal kind of error that will /destroy/ a particular effort to resist capitalism or build socialism.
+I'm open to the idea it's /possible/ there is a way for reverse class collaboration to work out, although I don't know how.
+
+currently I'm leaning toward that if you think reverse class collaboration is okay, you need to fully experience the depths of Dengism. understand all the positions and pitfalls of Dengism and harmonizing workers and corporations, and then go try to defend it to regular workers as an exercise, and see what they say to you.
+this is not a rhetorical suggestion. I think if we all had a conversation about this, it would in fact be easier to see what's wrong with reverse class collaboration.
+
+
+
+## the mandate of competence
+[<< 8670389833 competence]
+
+in the old days people had the idea of a mandate of heaven, or a mandate of consent of the governed
+in the time of monarchy, religion might be used to justify how the cosmos wanted a particular ruler to be there.
+in the first Liberal democracies, an idea was created that rulers should only get to be in power if the people were not dissatisfied with that ruler, and the people should be able to unseat rulers that cannot run the country in the way the people want.
+
+now we have a new concept of the "mandate of competence".
+primarily inside capitalism, people become accustomed to the idea that owners should get to be in power if they run an industry in a way that delivers what consumers want, and if they do not keep the industry open and delivering, some other capitalist should be able to unseat them.
+however, this idea has also leaked out into general politics, merging the simple idea of "maybe politicians should be good at what they do" into the same universal mandate to deliver and produce that exists in capitalism. politicians are asked not just to run civilization adequately, but to /improve/ civilization, and also often given conflicting demands on how to improve it. thus some people will try to vote politicians out for not making the private-sector economy more productive, and others will try to vote politicians out for not making improvements in civil rights or workers' rights or public services. (the goals of productivity and a better life for citizens should not be at odds, but we can thank capitalist class struggle for ensuring they are.)
+
+there are some very ugly sides to the mandate of competence.
+in the 2010s people invoked it on US president Barack Obama with assertions that all incompetent presidents have to go even if that means there are no black presidents, woman presidents, or anything else except cis white men. right-wing voters in particular believed Obama was not improving civilization, so he was no measure of progress, only a possible sign of the country declining toward a long chain of incompetent presidents.
+
+likewise Liberal-based ideologies often hold that Marxism-Leninism and anarchism cannot win the mandate of competence because calling for revolution is itself a sign you are not competent enough at running the country or "using reason" to convince everyone to vote in Communism.
+
+
+
+in my opinion the mandate of competence most likely has to go
+not because it is not legitimate to judge people on their ability, but because of the way it currently scales infinitely. corporations are expected to deliver greater and greater beyond what's realistically feasible just because consumers are used to constant improvement, and politicians are expected to make Liberal democracy do the impossible in spite of capitalists making it even more impossible.
+
+if we do not get rid of the mandate of competence and transform it into something better,
+there may be no more politics. we might see every discussion of politics transform into a discussion of materially running industries and other material aspects of civilization.
+any revolutionary group would have to consist of people who had a wide knowledge of technical manuals and scientific insights and industry expertise and could actually produce new technologies or methods to make work easier or personally produce whatever other societal change they want such as green technologies that can displace oil. if they can't personally create a robust industry of green technologies, no societal change.
+effectively, anarcho-capitalism would already exist in practice, hidden inside an ineffective democracy headed by more oligarchs.
+
+
+
+
+
+
+
+
+## problems of internationalism
+
+
+people only care about things happening immediately to them
+asian-american complained you can't get asian-americans to care about racism and police shootings
+
+china doesn't care about the United States' problems even if they could happen in China
+
+trotsky showed up kind of baffled how awful people in the united states were
+although he had once written about the oppressors of "Great Russia" and their attitude toward subordinate territories?
+it's like we are never prepared for the oppressions in another country even though they're not that different
+
+how do we build internationalism or solidarity when everything is so individualized?
+it's as if individuals don't understand each other's problems, and countries don't understand other countries' problems either, and everybody is stuck stumbling through their problems individually even if they may have similarities.
+
+
+
+
+
+
+
+## We have nothing to lose except everything
+[<< 8670290049 lose]
+
+the old saying was "you have nothing to lose but your chains"
+
+the stakes are really high now
+
+world war
+we spent 50 years worried about nuclear war and yet the threat of nuclear war has not entirely gone away
+climate change
+
+however the standard to be permitted to change society is really high
+
+
+
+whenever a communist movement screws up everyone hates communism a bit more. likewise with every ideology there is. when anarchism screws up people hate anarchism, when Trotskyism or Lacanianism or plain old Liberalism screw up people hate those
+see how voters keep switching when Liberal parties are unsatisfactory
+
+the good news is that when conservatism makes a mess of the world people hate conservatism.
+however, it's no longer enough to fight like we have nothing to lose when there are now so many ideologies and so many still-unsolved questions that have been uncovered.
+if we all fight like we have nothing to lose, but we fight each other, we all lose.
+
+workers, find the right way, if we fight for the wrong things, we have a world to lose
+
+
+
+
+
+
+
+
+
+
+## ideologies sections
+[<< 8670381251 ideologies]
+
+marxism and anarchism are sometimes at odds because both want to organize a labor movement but communism will want to direct the labor movement and anarchism will resist being controlled by the communist party, sometimes it will resist the entire idea of Materialist theories which attempt to suggest possible futures
+
+Liberalism-based theories are the worst because they resist communism /and/ anarchism. ... it isn't maximally inclusive and convincing to bigots
+Lacanianism and US syndicalism both suffer from this
+
+in Lacanianism there is a mistaken idea that Marx was trying to "predict history" ...
+
+
+skepticism and science concepts
+
+we need to always be clear what ideas we come up with are at what confidence level and which ones we are willing to see disproved and replaced with better ones
+
+dialectical materialism does not create theories, it creates hypotheses
+the Socratic dialectic may be considered a model of how we integrate old knowledge and new knowledge together to create scientific theories
+
+
+
+
+
+
+expropriation occurs under capitalism as a continuous process
+jobs and businesses always expropriate other jobs and businesses as they compete for roles in the economy and successfully gain property and social roles in rough proportion to what others lost.
+one business empire's gain does not necessarily /exactly/ match a few specific workers' loss - for instance one business empire could expand and obsolete jobs all the way in another industry with an unclear connection of which gain caused which loss. however, the total amount of new activity captured by the business empire is roughly proportional to the total loss /everywhere/ outside it.   [*]
+
+however, businesses do not grow at the expense of others /because/ they successfully deliver on the mandate of competence. if this were true, we would never see a business buy a smaller business and deliver a worse service, but in the real world this happens.
+businesses grow at the expense of other businesses and workers simply because they /promise/ to deliver on the mandate of competence, and investors believe their promises.
+
+
+([*] to be honest I'm open to the idea this conjecture is bullshit. but I have to record it simply as a logical conclusion of the other things I said.)
+
+
+
+
+
+
+
+
+
+be superbly organised
+
+finish production cycles, publish them for others to use in their own efforts
+make sure your contribution to collective property is held by a nonprofit or community-run organisation
+currently corporations hold a lot of collective property which means it can be lost at any time when it somehow becomes unprofitable
+
+
+
+
+
+[<< 8671591676 speech]
+"freedom of speech"
+freedom of dialectic, not freedom of argument
+encourage people to 'challenge prevailing narratives' but to yield when they are actually wrong
+kant and the idea of mutually exclusive thingies instead of a dialectic
+
+
+
+
+
+
+
+
+
+[*nsc] 'understanding' 'marxism', marx work unknown
+
+=> https://www.marxists.org/archive/trotsky/1920/terrcomm/ch08.htm  *tc8. Problems of the organization of labor - Terrorism and Communism ch. 8 (Trotsky 1920) ;
+;
+=> https://www.youtube.com/watch?v=XTiVRY-t190  n. IMT guy /does/ recommend a big marxist union ;
+=> https://www.youtube.com/watch?v=oWOH9iJhZXo  n. neoliberalism tied to competition between individuals over jobs and houses ;
+;
+=> https://www.youtube.com/watch?v=AfyceLGhuNM  n. insurgent universality ;
+;
+:: cr. 1669510507
+:: ar. 1669541173
+:: t. v3-Intro

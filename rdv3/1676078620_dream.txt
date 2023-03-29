@@ -1,0 +1,26 @@
+dreaming in order to dream
+
+
+i think that regarding Free Software, "GTD" systems, or similar personal technologies
+simplicity should be a goal
+the user should be allowed to build up their own set of tools from very simple parts,
+specifically such that a particular person's resulting toolkit lacks all the features they don't want to use and efficiently combines similar features into the same place
+
+I think this aids the human ability of organizing information and belongings
+if we are bombarded with all kinds of arbitrary things and asked to make sense of them, it becomes harder to focus on what is the most important and have a solid plan to /preserve/ a limited basket of the most important things
+however, if we have consciously chosen a basket of things small enough that we always know what is in it and periodically make use of every item, it is easier to make a plan for how to make "backup copies" of the basket or restore the same basket should something happen to it
+
+
+think of information as if the goal is to delete all of it
+in the course of deletion, we will keep back the most important things, and restate inefficient forms of information into more compact forms
+
+
+the human brain has evolved to visit old memories, trash them, and re-record the most important parts of them
+this may not be a great thing for remembering anecdotes factually
+however, if we appropriate this process consciously to organize information outside our brains, with the benefit of being able to discern what information is correct or important, we will find that it is almost the /only/ sensible way to organize information and ensure we don't lose the most important information
+
+
+
+
+
+; cr. 1676078620

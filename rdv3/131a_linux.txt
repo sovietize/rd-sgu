@@ -1,0 +1,35 @@
+# free software operating systems
+
+
+
+
+
+
+## the "linux tech stack"
+
+our tech stack is "so bad" and cobbled together because it replicates the patterns of capitalism
+
+we do not have to pay simply to gain access to these "products", nor are they built on strict timetables leaving things out specifically for reasons of time or money, since they don't have to be sold to us by a certain date in order to be funded.
+however, they follow the greater pattern that we don't have the time to build something so we use somebody else's labour, but we often don't cooperate with the other person to make sure the available dependencies are what we need, and simply take it as it is and put up with /however/ that person did things.
+
+linux-based operating systems expose the fact that "take it or leave it" is not actually cooperation. it does not produce a dialogue between two producers or a larger social structure which can consistently plan which things are needed and what people need to provide to other people.
+
+
+
+## commodity fetishism
+
+"commodity fetishism" is putting the blame in the wrong place
+increasingly the real problem is a "non-cooperation" of commodities such that whenever something is unsatisfactory, including if it should be compatible with something else and it isn't or it should have a bit more functionality than it does, we simply produce further self-contained Finished Products to compete with and trash our previous two products. put simply, if the wheel doesn't fit the car, we reinvent the wheel AND reinvent the car.
+it is not really that people attach magical properties to new computers as much as that they find their previous devices were terribly designed for the future, and have no choice when a device proves inadequate in the future but to hope capitalism will produce a better separate device they can buy. that they can solve the problem by delegating the task to another self-contained corporation and self-contained product, when really that task might be something that should be solvable by upgrading existing products.
+
+"commodity fetishism" is really more like "delegation fetishism"
+we know everything has to be delegated according to the rules so we hope delegation will in fact solve our problems. but by now physical products abstract away the act of delegation. we don't have to delegate laundry to a laundry service, we delegate it to a washing machine. but if we really wanted the washing machine to do something it doesn't do, we must delegate it to another machine produced by another group of people, unless corporations make the decision for us to connect those two groups of people through some kind of buyout or agreement.
+
+
+
+
+
+
+
+<= 1669510507 intro
+:: cr. 1670714924
