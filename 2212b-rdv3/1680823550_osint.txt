@@ -1,0 +1,16 @@
+# "Worst-case scenario": Twitter's API changes threaten research tools
+
+> Menczer of OSoMe was deeply disappointed with the new API. His group was among the earliest academic researchers to build Twitter analysis tools. ...
+> “As things stand now, most of our research using Twitter data will wind down. We will explore options based on alternative methods, such as scraping and browser extensions, but they come with significant limitations and difficulties,” he told me.
+
+> Your ability to find creative approaches, to remain persistent in the face of setbacks, and to think through a problem is your most important asset. It can never be cut off by a deprecated API or mothballed by a developer.
+
+> Many of us remember the halcyon days when Facebook Graph Search allowed us to pull lots of useful data about an account. Then Facebook shut it down in 2019. Nothing has come close to replicating the functionality.
+
+> Tools come and go. Free access is temporary. Vulnerabilities get patched. Targets and adversaries evolve. ...
+
+
+== https://digitalinvestigations.substack.com/p/worst-case-scenario-twitters-api
+:: cr. 1680823550
+:: t. osint
+:: t. OSINT
