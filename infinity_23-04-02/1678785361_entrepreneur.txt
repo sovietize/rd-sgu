@@ -1,0 +1,126 @@
+# Peer production (2007)
+
+
+## Capitalists vs. Entrepreneurs   [*M]
+Jed Harris
+
+This post was catalyzed by a post at The Technology Liberation Front. [...] I was responding to this key point:
+
+	[P]eer production isn’t an assault on the principles of a free society, but an extension of those principles to aspects of human life that don’t directly involve money. ….
+	
+	[A] lot of the intellectual tools that libertarians use to analyze markets apply equally well to other, non-monetary forms of decentralized coordination. It’s a shame that some libertarians see open source software, Wikipedia, and other peer-produced wealth as a threat to the free market rather than a natural complement.
+
+Since peer production is an entirely voluntary activity it seems strange to view it as a threat to the free market. [...] So how could this opinion arise? And does it indicate some deeper issue?
+
+I think viewing peer production as a threat is a symptom of an underlying issue with huge long-term consequences: *In peer production, the interests of capitalists and entrepreneurs are no longer aligned.* [...]
+
+### Examples and definitions
+
+Let’s try to follow out this distinction between entrepreneurs and capitalists.
+
+For example, Linus Torvalds is a great entrepreneur, and his management of the Linux community has been a key factor in the success of Linux. Success to an entrepreneur is coordinating social activity to create a new, self-sustaining social process. [...]
+
+A capitalist, by contrast, wants to get a return on something they own, such as money, a domain name, a patent, or a catalog of copyrighted works. A pure capitalist wants to maximize their return while minimizing the complexity of their actual business; in a pure capitalist scenario, coordination, production and thus entrepreneurship is overhead. Ideally, as a pure capitalist you just get income on an asset without having to manage a business.
+
+The problem for capitalists in peer production is that typically there is no way to get a return on ownership. Linus Torvalds doesn’t own the Linux source code, Jimmy Wales doesn’t own the text of Wikipedia, etc. These are not just an incidental facts, they are at the core of the social phenomenon of peer production. A capitalist may benefit indirectly, for a while, from peer production, but the whole trend of the process is against returns on ownership per se.
+
+### Profit
+
+Historically, entrepreneurship is associated with creating a profitable enterprise. In peer production, the idea of profit also splits into two concepts that are fairly independent, and are sometimes opposed to each other.
+
+The classical idea of profit is monetary and is closely associated with the rate of (monetary) return on assets. This is obviously very much aligned with capitalist incentives. Entrepreneurs operating within this scenario create something valuable (typically a new business), own at least a large share of it, and profit from their return on the business as an asset.
+
+The peer production equivalent of profit is creating a self-sustaining social entity that delivers value to participants. Typically the means are the same as those used by any classical entrepreneur: creating a product, publicizing the product, recruiting contributors, acquiring resources, generating support from larger organizations (legal, political, and sometimes financial), etc.
+
+Before widespread peer production, the entrepreneur’s and capitalist’s definitions of success were typically congruent, because growing a business required capital, and gaining access to capital required providing a competitive return. So classical profit was usually required to build a self-sustaining business entity.
+
+The change that enables widespread peer production is that today, an entity can become self-sustaining, and even grow explosively, with very small amounts of capital. As a result [...] it doesn’t need to provide any return on investment.
+
+As others have noted, peer production is not new. The people who created educational institutions, social movements, scientific societies, etc. in the past were often entrepreneurs in the sense that I’m using here, and in their case as well, the definition of success was to create a self-sustaining entity, even though it often had no owners, and usually produced no “profit” in the classical sense.
+
+These concepts of “profitability” can become opposed when obligations to provide classical profits to investors prevent an entity from becoming self-sustaining. In my experience, many startups die because of the barriers to participation that they create while trying to generate revenue. Of course if they are venture funded, they typically are compelled to do this by their investors. Unfortunately I don’t know of any way to get hard numbers on this phenomenon.
+
+Conversely, there are examples where a dying business becomes a successful peer-production entity. The transformation of Netscape’s dying browser business into the successful Mozilla open source project is perhaps the clearest case. Note that while Netscape could not make enough profit from its browser to satisfy its owners, the Mozilla foundation is able to generate more than enough income to sustain its work and even fund other projects. However this income could not make Mozilla a (classically) profitable business, because wouldn’t come close to paying for all the contributions made by volunteers and other companies.
+
+### Current pathologies of capitalism
+
+The conflicting incentives of entrepreneurs and capitalists come into sharp focus around questions of “intellectual property”. One commenter complained about open source advocates’ attacks on “software patents, … the DMCA and … IP firms”. These are all great examples of the divergence between ownership and entrepreneurship.
+
+The DMCA was drafted and lobbied into existence by companies who wanted the government to help them extract money from consumers, with essentially no innovation on their part, and probably negative net social value. In almost every case, the DMCA advocates are not the people who created the copyrighted works that generate the revenue; instead they own the distribution systems that got those works to consumers, and they want to control any future distribution networks.
+
+The DMCA hurts people who want to create new, more efficient modes of distribution, new artistic genres, new delivery devices, etc. In general it hurts entrepreneurs. However it helps some copyright owners get a return on their assets.
+
+The consequences of patents and other IP protection are more mixed, but in many cases they inhibit innovation and entrepreneurship. Certainly patent trolls are an extremely clear example of the conflict — they buy patents not to produce anything, but to sue others who do produce something. Submarine patents (like the claimed patents on MP3 that just surfaced) are another example—a patent owner waits until a technology has been widely adopted (due to the work of others) and then asserts the right to skim revenue from ongoing use.
+
+Intellectual property fragmentation is also a big problem. In many domains, especially biomedical, valuable innovations potentially require the right to practice dozens or even hundreds of patents, held by many different entities. Entrepreneurs often can’t get a new idea to market because the owners of these patents can’t all be brought to an agreement. Each owner has a perverse incentive to be the last to agree, so they can get any “excess” value. Owners also often overestimate the potential returns, and demand a higher “rent” than can actually be sustained. This phenomenon is called the “tragedy of the anti-commons“.
+
+All of these issues, and other similar ones, make it harder for small companies, individuals and peer production projects to contribute innovation and entrepreneurship. Large companies with lawyers, lobbyists, and defensive patent portfolios can fight their way through the thickets of “intellectual property”. Small entrepreneurs are limited to clearings where they can hope to avoid IP problems.
+
+Historically many benefits of entrepreneurship have been used to justify capitalism. However, we are beginning to see that in some cases we can have the benefits of a free market and entrepreneurship, while avoiding the social costs imposed by ensuring returns to property owners. The current battles over intellectual property rights are just the beginning of a much larger conflict about how to handle a broad shift from centralized, high capital production to decentralized, low capital production.
+
+
+## Capitalists, Entrepreneurs, and Peer Production   [*L]
+Tim Lee
+
+Jed Harris has a fantastic post about how peer production introduces a fissure between capitalists and entrepreneurs:
+
+	Before widespread peer production, the entrepreneur’s and capitalist’s definitions of success were typically congruent, because growing a business required capital, and gaining access to capital required providing a competitive return. So classical profit was usually required to build a self-sustaining business entity.
+	
+	The change that enables widespread peer production is that today, an entity can become self-sustaining, and even grow explosively, with very small amounts of capital. As a result it doesn’t need to trade ownership for capital, and so it doesn’t need to provide any return on investment.
+	
+	As others have noted, peer production is not new. The people who created educational institutions, social movements, scientific societies, etc. in the past were often entrepreneurs in the sense that I’m using here, and in their case as well, the definition of success was to create a self-sustaining entity, even though it often had no owners, and usually produced no “profit” in the classical sense.
+	
+	These concepts of “profitability” can become opposed when obligations to provide classical profits to investors prevent an entity from becoming self-sustaining. In my experience, many startups die because of the barriers to participation that they create while trying to generate revenue. [...] Unfortunately I don’t know of any way to get hard numbers on this phenomenon.
+	
+	Conversely, there are examples where a dying business becomes a successful peer-production entity. The transformation of Netscape’s dying browser business into the successful Mozilla open source project is perhaps the clearest case. Note that while Netscape could not make enough profit from its browser to satisfy its owners, the Mozilla foundation is able to generate more than enough income to sustain its work and even fund other projects. However this income could not make Mozilla a (classically) profitable business, because wouldn’t come close to paying for all the contributions made by volunteers and other companies.
+
+I think this is one of the big reasons why divisions among Libertarians are so common with respect to these issues. Libertarianism tends to be a pro-entrepreneur, pro-capitalist political philosophy. Before peer production came along, being “pro-entrepreneur” was usually equivalent to being “pro-capitalist.” But with peer production, Libertarians are, in a sense, asked to choose sides. Those who view economic progress primarily in financial terms — that is, who perceive the investor as the key player in the creation of new wealth, and the entrepreneur as merely his agent—will tend to regard peer production with suspicion, because peer production tends not to produce very much wealth that’s in a form that can easily be transferred to investors. And they also tend to be the copyright hawks, because they view the creative process primarily in financial terms: if record labels aren’t able to turn a profit, there will be a lot less music (or a lot less high-quality music) produced.
+
+On the other hand, those who have a more entrepreneur-centric view of innovation—who view investment as merely one input in the process of entrepreneurship—will find peer production as highly congenial, because peer production is simply a form of entrepreneurship that requires little or no capital as an input. These people tend to think that people have diverse motivations for engaging in creativity, and so the lack of a direct financial return does not necessarily mean that no creative works will be produced. As you might guess, I tend to fall in this second camp.
+
+The best example of the first camp of Libertarians is Libertarian political theorist Richard Epstein (one of my favorite Libertarian thinkers on most other issues) who wrote the following back in 2004:
+
+	[...] The open source movement shares many features with a workers’ commune, and is likely to fail for the same reason: it cannot scale up to meet its own successes. To see the long-term difficulty, imagine a commune entirely owned by its original workers who share pro rata in its increases in value. The system might work well in the early days when the workforce remains fixed. But what happens when a given worker wants to quit? Does that worker receive in cash or kind his share of the gain in value during the period of his employment? If not, then the run-up in value during his period of employment will be gobbled up by his successor [...]. Yet that danger can be ducked only by creating a capital structure that gives present employees separable interests in either debt or equity in exchange for their contributions to the company. But once that is done, then the worker commune is converted into a traditional company whose shareholders and creditors contain a large fraction of its present and former employers.
+
+Here Epstein seems literally incapable of imagining entrepreneurship without capital, despite the fact that it’s staring him in the face. He’s so used to thinking about entrepreneurship in financial terms that when you take financial considerations out of the picture, he’s completely lost.
+
+Of course no Libertarian should be anti-capitalist. Capitalists are extremely important to a free-market economy, and they’re indispensable for many kinds of entrepreneurship. But at the same time, there are other types of entrepreneurship in which capital is not especially crucial, and so Libertarians should take care to avoid the trap of assuming that every economic transaction must be conducted on financial terms, or that every entrepreneurial activity must yield a financial profit. Both capital-intensive and peer-produced innovation are important to the economy, and as Libertarians we should celebrate them both.
+
+
+## Does Peer Production Turn Capitalists Against Entrepreneurs?   [*E]
+Mike Masnick
+
+There’s an absolutely fascinating post by Tim Lee examining whether or not the rise of peer production has misaligned capitalists and entrepreneurs. It’s based on a blog post by Jed Harris trying to explain the same concept. [*M,*L] The two posts suggest that traditionally the view of capitalists (those with money to invest, basically) and entrepreneurs is aligned. An entrepreneur needs capital to get a business started. The capitalist supplies the capital in exchange for a piece of the resulting business. The question, though, is who is more key to the equation here. The capitalist? Or the entrepreneur? In the past, it might not have mattered, since the two functioned together so well. However, lately, there’s been a lot of concern that the venture capital model is broken. There was story after story of brand spanking new web 2.0 companies springing up with little to no need to raise venture money (other than, perhaps, the connections it brings).
+
+Harris and Lee suggest that the reason for this is the rise of peer production [...], in which money is not necessarily the main ingredient. People aren’t paid to post their videos to YouTube. They do so for other reasons — whether it’s expression, fame or that it’s just an easier way to upload and host video. Harris and Lee suggest that those who believe that the capital part of the equation is more important than the entrepreneur will naturally be averse to such a situation. [...] Throwing in incentives that have nothing to do with dollars seems wrong. It’s either a glitch, or more likely (they’ll often claim) based on some Utopian standard that can’t last (or they’ll just call it “communism”). And, when it keeps going, they’ll claim that it’s just exploitation when nothing is further from the truth. [*s]
+
+However, if you believe that the entrepreneur and the related innovation is the real spark, then all of this makes perfect sense. They’re providing services that people want — and those people are participating because they get non-monetary value and benefits back out of it. That could be things as simple as community or attention or it could be deeper things such as knowledge, experience and opportunity. Those may not have a direct monetary value, but they do have tremendous value — and entrepreneurship is based on solving a market need by providing value.
+
+Still, I don’t think the real result is that capitalists and entrepreneurs have turned against each other [...]. What it really represents is “capitalists” who are too locked into obsolete business models to realize that there are different ways to profit. The trick is just recognizing that the money part of the equation shows up somewhere else. Whenever value is created, there are always opportunities to profit. For the biggest shining example of this, just look at Google. It gave away its product for free and eventually created a business model that works (and, boy, does it ever work). Now, there is certainly a problem in that some entrepreneurs never have been able to figure out the business models that leverage peer production to later benefit the entrepreneur — but that hardly means they’re against profiting in the traditional sense (just as it doesn’t mean they’re exploiting anyone either).
+
+The general framework for aligning capitalists and entrepreneurs over peer production is simple: Peer production only works when it creates value for the “peers” involved. When you increase value in one place, there will always be somewhere else where that value can be captured monetarily. Therefore, the smart capitalist is not looking at funding entrepreneurs due to their ability to “exploit,” but is looking for entrepreneurs who have business models that both increase value for users on one end, and then have ways to capture that value monetarily at the other end. The mistake is thinking that just because peer production doesn’t involve direct payments that the overall value isn’t increased and that there isn’t a way to later capture that value monetarily. If you believe that there’s a near limitless ability to increase value, then peer production is fantastic for both capitalists and entrepreneurs. It’s only if you believe in a zero-sum world where someone’s increasing value means someone else is losing value that you end up seeing conflict. Unfortunately, there are many who still believe this fallacy — and it’s really that group that sees peer production as some sort of threat to capitalism.
+
+
+## Are Sites Like Digg, YouTube And MySpace Still Exploitation If People Get What They Want?   [*s]
+Mike Masnick
+
+There’s a fascinating discussion going on among some bloggers today, concerning some research about how the top 10 domains online get a larger percentage of traffic today than they did five years ago — supposedly countering Fred Wilson’s claim that “the long tail” of web pages was increasingly important.   [*v]
+
+	[T]he first Internet era was a time when consumers weren’t that comfortable with vastness of the web and they wanted a safe clean place where they could experience the web easily and comfortably. If AOL was the web on training wheels (it wasn’t really the web at all), then Yahoo! was the web you graduated to when you were ready to shed your training wheels. [...]
+	
+	Today most consumers are comfortable with the web and all of its complexity. They simple type a search query into Google, Yahoo!, or some other search engine and off they go.
+
+However, as you dig into the numbers, it becomes clear that Wilson’s point still does stand. Most of that increase in traffic is actually due to MySpace and YouTube, which aren’t “properties” by themselves so much as they are a playground sandbox for millions of others to set up their own individual sites — representing an even longer tail of content that just happens to be place within the walls of specific sites.
+
+Nick Carr, as per usual, cuts through the clutter in pointing this out — but then goes on to make some questionable assertions about how this is a modern form of sharecropping — whereby the “land owner” aggregator sites like MySpace and YouTube are somehow exploiting the “sharecropper” users, who are willing to create content for those sites for nothing. [...]  What’s really going on is a recognition that not everything needs to be paid for in monetary terms (which isn’t a new concept). It’s not that the users are somehow being “exploited” by being tricked into giving up value in exchange for attention. They are making the choice and recognizing the benefit. The attention is a benefit to them. [...] This is the same mistake that others have made in claiming that Google is somehow exploiting sites by organizing and pointing people to those sites — while making money in the process. Once again, that’s a case where Google is providing some benefit (traffic, or if you must, attention) to those sites. Those who complain about the lack of monetary payment are under the same delusion as Carr, that benefits like attention are somehow separate from the cash-based economy. Just because some of the direct benefits are not in cash, doesn’t mean that one side is any more exploited than the other.
+
+
+
+
+== https://www.techdirt.com/2007/02/28/does-peer-production-turn-capitalists-against-entrepreneurs/  *E. Does Peer Production Turn Capitalists Against Entrepreneurs? ;
+== https://techliberation.com/2007/02/27/capitalists-entrepreneurs-and-peer-production/  *L. Capitalists, Entrepreneurs, and Peer Production ;
+== https://www.techdirt.com/2006/12/20/are-sites-like-digg-youtube-and-myspace-still-exploitation-if-people-get-what-they-want/  *s. Are Sites Like Digg, YouTube And MySpace Still Exploitation If People Get What They Want? ;
+== https://avc.com/2006/12/the_deportaliza/  *v. The De-Portalization of the Internet (aka What I Would Do If I Were Running Yahoo!) ;
+== https://web.archive.org/web/20090810234245/http://jed.jive.com/?p=23  *M. Capitalists vs. Entrepreneurs ;
+;
+:: cr. 1678785361
