@@ -1,0 +1,9 @@
+c. 23-3-12 ~ 3-21 - kdenlive fails to write to this video's project file properly, effectively shredding the project. this likely happened due to a disk error where my drive had filled up with rendered videos and proxy clips and there was no space. (kdenlive does make backups of projects, but only at times they are especially likely to be garbled, and this wasn't one of those special cases.)
+
+23-3-23 - I begin offering input to the G-refracta/v-refracta project which is aiming to create a "disaster-resistant operating system", in the sense of one where you can trivially recreate all your programs and configuration whenever you think something is wrong with your install
+
+23-3-28 - I become sidetracked from getting back to this item by an event where some of my archive.org items are accidentally deleted. I end up recording a new video project about this called "lesson2"
+
+23-5-16 - one of my drives fails at a terrible time, wiping out my past year or so of files before I can properly ensure they are shadowed across two drives. (this was supposed to be my backup drive, so I trusted it to maintain files for at least a little while, but it quickly became my nothing.) it seems the original working copy of this project is /completely/ lost.
+
+23-5-17 - this project is recovered from its archive.org copy

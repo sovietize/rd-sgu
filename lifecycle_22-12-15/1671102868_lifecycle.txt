@@ -1,0 +1,16 @@
+# A warning for all youtube users
+(The "social media" paper shredder)
+
+
+
+
+
+
+
+:: cr. 1671102868
+:: ar. 1684357762
+;    restored working copy from archive.org
+;
+; https://exiftool.org/TagNames/EXIF.html
+; https://exiv2.org/tags.html
+; -ExifIFD:UserComment="image description" -IFD0:HostComputer="source" -IFD0:PageName="original page"
