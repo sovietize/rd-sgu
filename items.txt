@@ -1,8 +1,10 @@
 # uploads by reversedragon3
+(23 public items)
 
 https://archive.org/details/ ...
 
 ## not on archive.org
+ (not in public item count)
 .  (states_23-04-11)    [unfinished video] revisiting the balance between federal and local
 .  (lesson2_23-3-29)    [unfinished video] a warning for all youtube users, part 2
 
@@ -14,6 +16,20 @@ https://archive.org/details/ ...
 .  221207_rd_herded    [edit scraps] How Elites will centralize capitalism and expand the proletariat!
 .  221010_rd_ted       unfinished video dump
 .  220827_trains       [unfinished] trains
+
+## videos inside "unfinished video dump"
+ (not in public item count)
+     home 23-01-15
+     go-fourth 22-12-22
+     vote 22-11-27  [likely scrapped]
+     sect 22-12-23  [likely scrapped]
+     anew 22-11-17  [likely scrapped]
+     retrogress 22-11-15
+     faction 22-10-21  [likely scrapped]
+     che 22-10-22
+     ted 22-10-10
+     hell 22-9-16
+     justify 22-10-05 [likely scrapped]
 
 ## regular videos, etc
 .  230327_fan2         [video] The Fan — part 2
@@ -41,4 +57,4 @@ X  channels4_profile_202208  reverseDragon profile picture  [removed]
 .  stalinism-w-siurv-3-ntc "Stalinism!"  [22-08-03]
 
 
-:: cr. 1682147493
+# :: cr. 1682147493
